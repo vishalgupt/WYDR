@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/broadCastActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/tool_bar"></include>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/listViewBroadcast"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/linearLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/chatHeader"
+            android:divider="@color/white"
+            android:dividerHeight="5dp"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:listSelector="@drawable/list_selector"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:stackFromBottom="true"
+            android:transcriptMode="normal" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#47a2db"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                android:weightSum="7">
+
+                <ImageView
+                    android:id="@+id/buttonSmileyBroadcast"
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+
+                    android:background="@drawable/chat_button_selector"
+                    android:padding="7dp"
+                    android:src="@drawable/smiley" />
+
+                <wydr.sellers.emojicon.EmojiconEditText
+                    android:id="@+id/editTextMessageBroadcast"
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="5"
+                    android:background="@drawable/type_text_bar"
+                    android:hint="Message"
+                    android:padding="7dp"
+                    android:textColor="@color/white"
+                    android:textCursorDrawable="@drawable/color_cursor"
+                    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+                    />
+
+                <ImageView
+                    android:id="@+id/buttonSendBroadcastMsg"
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:background="@drawable/chat_button_selector"
+                    android:clickable="true"
+                    android:padding="7dp"
+                    android:src="@drawable/send" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

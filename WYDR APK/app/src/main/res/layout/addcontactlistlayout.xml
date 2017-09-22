@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/contacticon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/avtar"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_toLeftOf="@+id/contactinvitebutton"
+        android:layout_toRightOf="@+id/contacticon"
+        android:layout_toStartOf="@+id/contactinvitebutton"
+        android:text="User Name"
+        android:textColor="@color/text_color"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/contactnumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/user_name"
+        android:layout_alignStart="@+id/user_name"
+        android:layout_below="@+id/user_name"
+        android:layout_marginTop="5dp"
+        android:layout_toLeftOf="@+id/contactinvitebutton"
+        android:layout_toStartOf="@+id/contactinvitebutton"
+        android:singleLine="true"
+        android:text="Some Text"
+        android:textColor="@color/primary_text"
+        android:textSize="14sp" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="7dp"
+        android:button="@drawable/checkbox_sel"
+        android:checked="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center|end"
+        android:textColor="@color/primary_text"
+
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/contactinvitebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/contacticon"
+        android:layout_centerInParent="true"
+        android:background="@drawable/connect_button_with_padding"
+        android:gravity="center_vertical|center|center_horizontal"
+        android:onClick="doJob"
+        android:text="CONNECT"
+        android:textColor="@color/white" />
+
+
+</RelativeLayout>

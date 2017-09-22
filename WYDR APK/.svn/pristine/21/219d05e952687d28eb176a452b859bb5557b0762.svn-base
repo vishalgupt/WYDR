@@ -1,0 +1,1706 @@
+[
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\user_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\manage_team.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\manage_team.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\date_activity.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\date_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\mycateloglist.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\mycateloglist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_network.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_new_cart.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_new_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_toolbar.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_toolbar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\book_order_dialog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\book_order_dialog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\to_user_catalog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\to_user_catalog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\attach_catalog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\attach_catalog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\member_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\member_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\attech_product_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\attech_product_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\catelog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\catelog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_list.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\slider_header.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\slider_header.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_network.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_network.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\location_filter.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\location_filter.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\create_broadcast.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\create_broadcast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_walkthrough1.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_walkthrough1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\all_sellers.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\all_sellers.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\selected_product_spinner.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\selected_product_spinner.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\cart_activity.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\cart_activity.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\seller_profile.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\seller_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\attach_catalog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\attach_catalog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\marketplace_grid_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\marketplace_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\category_grid_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\category_grid_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\c_pdp.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\c_pdp.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_footer.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicons.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\filter_menu_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\filter_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_catalog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_catalog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\spin_row.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\spin_row.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\tool_bar.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\submit_query.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\submit_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_layout_mynetwork.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_layout_mynetwork.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\card_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_delivery.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_delivery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\invite_user.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\invite_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\quiry_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\quiry_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\conatct_2.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\conatct_2.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_detail.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\orders.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\orders.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\broadcast_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\broadcast_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_grid2.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_grid2.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\slidingimages_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\slidingimages_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\hi_fi_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\hi_fi_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\category_header.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\category_header.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\product_detail.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\product_detail.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\marketplace_products.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\marketplace_products.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_product_in_broadcast.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_product_in_broadcast.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\sub_category.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\sub_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_group.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\seller_profile.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\seller_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\seller_row.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\seller_row.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\textview.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\slider.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\viewpager_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\share_catalog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\share_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_share_catalog_with.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_share_catalog_with.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\conatct_2.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\conatct_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\home_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_toolbar.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_toolbar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_item2.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_item2.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\order_recieved.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\order_recieved.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\address_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\address_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\sub_category.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\sub_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\favsellerfrag.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\favsellerfrag.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\home_query_feed.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\home_query_feed.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\address_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\address_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_checkout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\submit_query.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\submit_query.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\otpverify.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\otpverify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_result_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_result_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\loginapp.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\loginapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\cart_stockout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\cart_stockout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_grid2.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_grid2.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\order_review.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\order_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_become_a__seller.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_become_a__seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_tab_text.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\items_child.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\items_child.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\footer.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_root.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_root.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\registration.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\tool_bar.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\contact_us.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\filter_activity.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\filter_activity.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\addcontactslayout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\addcontactslayout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\product_shared_items.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\product_shared_items.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\filter_menu.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\filter_menu.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\all_seller_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\all_seller_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_order_review.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_order_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_walk_through.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_walk_through.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fordward_activity.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fordward_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\stockout_list.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\stockout_list.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_pager_image.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_favourit.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_favourit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\c_pdp.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\c_pdp.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\toolbar2.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\toolbar2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\broadcast_detail.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\broadcast_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_chat_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_chat_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\image_right.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\image_right.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\toolbar.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_profile.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_profile.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_profile.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_profile.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\product_shared_items.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\product_shared_items.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\viewpager_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\location_filter_activity.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\location_filter_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\overlay_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\overlay_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_walk_through3.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_walk_through3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\reward.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\reward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\order_review.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\order_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\categorylist.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\categorylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\category_items.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\category_items.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\otpverify.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\otpverify.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_become_a__seller.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_become_a__seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\load_footer.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\load_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\imagelayout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\imagelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\member_list_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\member_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fordward_activity.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fordward_activity.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\home_overlay.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\home_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\location_filter.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\location_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\product_detail.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\product_detail.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_query_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_query_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\orders_placed_list.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\orders_placed_list.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\right_slider.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\right_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_parent.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\footer.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\hi_fi_dialog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\hi_fi_dialog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\home_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\attech_product_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\attech_product_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\filter_activity.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\filter_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\myfavfragment.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\myfavfragment.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_result.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\attech_product.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\attech_product.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\category_grid_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\category_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\seller_filter.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\seller_filter.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\auto_code_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\auto_code_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_left.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_left.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\orders_placed.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\orders_placed.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\grid_overlay.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\grid_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fav_sellers_list.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fav_sellers_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_walk_through2.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_walk_through2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\addcontactslayout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\addcontactslayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\book_order_dialog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\book_order_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\all_seller_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\all_seller_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_query.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\query_feed.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\query_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\newcheckout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\newcheckout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_item2.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_item2.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_share_catalog_with.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_share_catalog_with.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\invite_user.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\invite_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\cart_activity.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\cart_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\query_item_menu.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\query_item_menu.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_chat_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_chat_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_item_chat_message.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_item_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_address.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_address.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\new_cart_card.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\new_cart_card.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\sellerlist.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\sellerlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\slider.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\slider.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_landing_page.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_landing_page.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\query_chat.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\query_chat.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\super_spinner.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\super_spinner.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\query_item_menu.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\query_item_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\broadcast.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\broadcast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\loginapp.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\loginapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_footer.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_footer.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\imgeviewpager_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\imgeviewpager_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\auto_code_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\auto_code_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_root.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_root.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\market_place.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\market_place.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\user_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\date_activity.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\date_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_fullscreen_image.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\layout_fullscreen_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\member_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\member_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\selected_product_spinner.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\selected_product_spinner.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\edi_catalog_listlayout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\edi_catalog_listlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\broadcast_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\broadcast_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_product.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\market_place.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\market_place.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\buisdetail.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\buisdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_right.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_detail.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\member_list_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\member_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_query_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_query_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\manage_team.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\manage_team.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_thank.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_thank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\broadcast.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\broadcast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\image_left.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\image_left.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_thank.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_thank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_product_in_broadcast.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_product_in_broadcast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\spin_row_filter.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\spin_row_filter.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\product_cart.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\product_cart.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\favsellerfrag.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\favsellerfrag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_list.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\expandable.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\expandable.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\share_catalog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\share_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\footer_cart.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\footer_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\all_sellers.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\all_sellers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_cities_autosuggest.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_cities_autosuggest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\network_search_result.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\network_search_result.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_cities_autosuggest.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_cities_autosuggest.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_walk_through.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_walk_through.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\slider_header.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\slider_header.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\address_list.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\address_list.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_user.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_user.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\seller_filter.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\seller_filter.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\couponcard.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\couponcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\pagination_loading.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\pagination_loading.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\image_left.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\image_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_delivery.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_delivery.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\cart_stockout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\cart_stockout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\deals_card.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\deals_card.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\deals_card.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\deals_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\terms_use.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\terms_use.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_result.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\hi_fi_dialog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\hi_fi_dialog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_fullscreen_image.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\layout_fullscreen_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\shared_items.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\shared_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\to_user_catalog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\to_user_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_tab_text.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\sellerlist.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\sellerlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\query_chat.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\query_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\mycatalog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\mycatalog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\categorylist.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\categorylist.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\marketplace_products.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\marketplace_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\expandable.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\expandable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\couponcard.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\couponcard.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_result_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_result_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\orders_placed_list.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\orders_placed_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_layout_mynetwork.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_layout_mynetwork.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\buisdetail.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\buisdetail.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\load_footer.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\load_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_left.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_right.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_right.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_walkthrough1.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_walkthrough1.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\shared_items.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\shared_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\date_range.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\date_range.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\category_items.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\category_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_pager_image.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_favourit.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_favourit.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\mycateloglist.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\mycateloglist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\create_broadcast.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\create_broadcast.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\category_header.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\category_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\slidingimages_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\slidingimages_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\order_review_row.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\order_review_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_grid.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\query_feed.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\query_feed.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_grid.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\filter_menu.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\filter_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\marketplace_grid_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\marketplace_grid_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\activity_checkout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\reward_row.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\reward_row.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\team_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\team_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\overlay_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\imgeviewpager_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\imgeviewpager_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\filter_menu_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\filter_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\super_spinner.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\super_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_tab_icon.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\order_review_row.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\order_review_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\orders.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\addcontactlistlayout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\addcontactlistlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\team_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\team_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_snackbar.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\catelog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\catelog.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fav_sellers_list.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fav_sellers_list.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\addcontactlistlayout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\addcontactlistlayout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\seller_row.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\seller_row.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\attech_product.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\attech_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\home_query_feed.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\home_query_feed.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicon_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\spin_row_filter.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\spin_row_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\cart_count.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\cart_count.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\stockout_list.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\stockout_list.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_address.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_address.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\reward_row.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\reward_row.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\edi_catalog_listlayout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\edi_catalog_listlayout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\hi_fi_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\hi_fi_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_group.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\orders_placed.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\orders_placed.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\location_filter_activity.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\location_filter_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\textview.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\right_slider.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\right_slider.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\terms_use.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\terms_use.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\date_range.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\date_range.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\items_child.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\items_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\grid_overlay.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\grid_overlay.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\myfavfragment.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\myfavfragment.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\broadcast_detail.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\broadcast_detail.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\newcheckout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\newcheckout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_order_review.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_order_review.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_landing_page.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\spin_row.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\spin_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\address_list.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\address_list.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\toolbar2.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\toolbar2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\chat_user.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\chat_user.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\pagination_loading.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\pagination_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\order_recieved.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\order_recieved.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\emojicons.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\emojicons.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\image_right.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\image_right.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\footer_cart.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\footer_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\cart_count.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\cart_count.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\card_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\new_cart_card.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\new_cart_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\home_overlay.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\home_overlay.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\reward.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\reward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\search_query.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\search_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\item_parent.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\item_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_walk_through3.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_walk_through3.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\add_product.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\add_product.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\my_catalog.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\my_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_snackbar.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_walk_through2.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_walk_through2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\list_item_chat_message.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\list_item_chat_message.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\quiry_layout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\quiry_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\imagelayout.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\imagelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\registration.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\product_cart.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\product_cart.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\layout_tab_icon.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\mycatalog.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\mycatalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\fragment_new_cart.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\fragment_new_cart.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\network_search_result.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\layout\\network_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    }
+]

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        card_view:cardCornerRadius="4dp"
+        card_view:contentPadding="10dp"
+        card_view:cardBackgroundColor="#FFFFFF">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Issue/Deduction Date: "
+                android:layout_weight="4.7"
+                android:textSize="15sp"
+                android:gravity="right"
+                android:layout_marginBottom="15dp"
+                android:id="@+id/issueOrDeduct" />
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="27 Dec 2015"
+                android:textColor="@color/primary_500"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"
+                android:id="@+id/deductionDate_tv"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Expiration Date:"
+                android:layout_weight="4.7"
+                android:textSize="15sp"
+                android:gravity="right"
+                android:layout_marginBottom="15dp"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="No Expiration Date"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/expirationDate_tv"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Issue/Deduction Reason:"
+                android:layout_weight="4.7"
+                android:textSize="15sp"
+                android:gravity="right"
+                android:layout_marginBottom="15dp"
+                android:id="@+id/issueOrDeductReason"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="Christmas Offer"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/deductionReason_tv"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Points:"
+                android:layout_weight="4.7"
+                android:textSize="15sp"
+                android:gravity="right"
+                android:layout_marginBottom="15dp"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="-39"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:id="@+id/deductionAmount_tv"/>
+
+        </LinearLayout>
+
+        <!--<View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ccc"/>-->
+    </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ccc"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="sdfssfsdfasadsasadsadadasdasdasd"
+                android:layout_weight="4.7"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.6"/>
+            <TextView
+                android:layout_width="0dp"
+                android:text="dadadasdadadadadadadasdadad"
+                android:layout_height="wrap_content"
+                android:layout_weight="4.7"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#ccc"/>
+    </LinearLayout>-->
+
+</LinearLayout>

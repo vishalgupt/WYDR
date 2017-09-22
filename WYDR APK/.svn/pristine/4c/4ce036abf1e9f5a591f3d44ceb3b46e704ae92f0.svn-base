@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libidn-1.26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libidn-1.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

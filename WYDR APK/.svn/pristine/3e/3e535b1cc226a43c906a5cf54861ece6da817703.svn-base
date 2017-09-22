@@ -1,0 +1,118 @@
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <include layout="@layout/tool_bar" />
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/uf_catalog"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:id="@+id/rl_cat"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/main_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:animateLayoutChanges="true"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/actionbar_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:orientation="vertical">
+
+
+                <TabWidget
+                    android:id="@+id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:showDividers="none">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_weight="1"
+                        android:background="#fff"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:id="@+id/tab1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="2dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/my_bussiness_top_arrow"
+                            android:gravity="center"
+                            android:tag="4"
+                            android:text="@string/orders_placed"
+                            android:textColor="#2196F3"
+                            android:textSize="14dp"
+                            android:textStyle="bold"
+                            android:typeface="sans" />
+
+
+                    </LinearLayout>
+
+                    />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_weight="1"
+                        android:background="#fff"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tab2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="@drawable/my_bussiness_top_bar"
+                            android:gravity="center"
+                            android:tag="2"
+                            android:text="@string/orders_rece"
+                            android:textColor="#3c3c3c"
+                            android:textSize="14dp"
+                            android:typeface="sans" />
+
+                    </LinearLayout>
+
+                </TabWidget>
+
+            </LinearLayout>
+
+
+            <wydr.sellers.activities.NonSwipeableViewPager
+                android:id="@+id/catpager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></wydr.sellers.activities.NonSwipeableViewPager>
+        </LinearLayout>
+
+        <!--        <include layout="@layout/home_overlay" />-->
+
+
+    </RelativeLayout>
+    <!-- <include layout="@layout/recyclerview" />-->
+
+</FrameLayout>
+</LinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#f3f2f2"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/orderThumb"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:padding="4dp"
+        android:scaleType="fitXY"
+        android:background="@drawable/default_round_bck"
+        android:src="@drawable/default_product" />
+
+    <TextView
+        android:id="@+id/txtTitleAttach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="7dp"
+        android:layout_toEndOf="@+id/orderThumb"
+        android:layout_toRightOf="@+id/orderThumb"
+        android:singleLine="true"
+        android:text="Apple iphone"
+        android:textColor="#3c3c3c"
+        android:textSize="16sp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtCodeAttech"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTitleAttach"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="2dp"
+        android:layout_toEndOf="@+id/orderThumb"
+        android:layout_toRightOf="@+id/orderThumb"
+        android:text="P0198"
+        android:textColor="#3c3c3c"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/txtMRPAttech"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtCodeAttech"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="2dp"
+        android:layout_toEndOf="@+id/orderThumb"
+        android:layout_toRightOf="@+id/orderThumb"
+        android:text="29000"
+        android:textColor="#3c3c3c"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/txtsp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMRPAttech"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="2dp"
+        android:layout_toEndOf="@+id/orderThumb"
+        android:layout_toRightOf="@+id/orderThumb"
+        android:text="26000"
+        android:textColor="#3c3c3c"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtMOQ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="MOQ : 20 "
+        android:textColor="@color/text_color" />
+</RelativeLayout>

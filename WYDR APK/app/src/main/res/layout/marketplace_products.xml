@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/mpp_bottombar"
+
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ExpandableListView
+                android:id="@+id/mpp_expandableCategory2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/transparent"
+                android:groupIndicator="@null"
+                android:visibility="gone" />
+
+
+            <GridView
+                android:id="@+id/mpp_gridView2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                android:background="#f0f0f0"
+                android:gravity="center"
+                android:horizontalSpacing="0.5dp"
+                android:numColumns="2"
+                android:paddingBottom="20dp"
+                android:verticalSpacing="0.5dp"
+                tools:listitem="@layout/marketplace_grid_item" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/mpp_bottombar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/bg_main"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/mpp_category_button"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/mpp_txtMarketCategory"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/bg_main"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/white_down_arrow"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="CATEGORY"
+                    android:textColor="#fff"
+                    android:textIsSelectable="false"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/mpp_sort"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:padding="10dp">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/bg_main"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/white_down_arrow"
+                    android:gravity="left"
+                    android:text="SORT BY"
+                    android:textColor="#fff"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/mpp_filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="20dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/filter" />
+    </RelativeLayout>
+</LinearLayout>

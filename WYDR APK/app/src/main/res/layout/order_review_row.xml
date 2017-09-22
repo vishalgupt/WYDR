@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp">
+
+    <ImageView
+        android:id="@+id/productImg"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/default_round_bck"
+        android:padding="3dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/default_product" />
+
+    <TextView
+        android:id="@+id/productTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignTop="@+id/productImg"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_toEndOf="@+id/productImg"
+        android:layout_toLeftOf="@+id/edititem"
+        android:layout_toRightOf="@+id/productImg"
+        android:paddingRight="10dp"
+        android:singleLine="true"
+        android:hint="Product Name"
+        android:textColor="#3c3c3c"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/productQty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/productTitle"
+        android:layout_below="@+id/productTitle"
+        android:layout_marginTop="1dp"
+        android:layout_toEndOf="@+id/productImg"
+        android:layout_toRightOf="@+id/productImg"
+        android:paddingRight="10dp"
+        android:hint="Qty:"
+        android:textColor="#3c3c3c"
+        android:textIsSelectable="false"
+        android:textSize="13sp" />
+
+
+    <TextView
+        android:id="@+id/originalPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:paddingRight="10dp"
+        android:hint="Price"
+        android:textStyle="italic"
+        android:textColor="#3c3c3c"
+        android:textSize="13sp"
+        android:layout_alignTop="@+id/disPrice"
+        android:layout_toLeftOf="@+id/disPrice"
+        android:layout_toStartOf="@+id/disPrice" />
+
+
+    <TextView
+        android:id="@+id/couponCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/productTitle"
+        android:layout_below="@+id/productQty"
+        android:layout_marginTop="1dp"
+        android:layout_toEndOf="@+id/productImg"
+        android:layout_toRightOf="@+id/productImg"
+        android:paddingRight="10dp"
+        android:hint="ICICC10"
+        android:textColor="#3c3c3c"
+        android:textSize="13sp" />
+
+
+    <TextView
+        android:id="@+id/couponCodeStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/productQty"
+        android:layout_toRightOf="@+id/couponCode"
+        android:paddingRight="10dp"
+        android:hint="Applied"
+        android:textStyle="italic"
+        android:textColor="#3c3c3c"
+        android:textSize="13sp" />
+
+
+    <TextView
+        android:id="@+id/discountPercent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/couponCodeStatus"
+        android:layout_below="@+id/productQty"
+        android:paddingRight="10dp"
+        android:text="10% Discount"
+        android:textColor="@color/checkout_color"
+        android:textSize="13sp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Discount Price"
+        android:textColor="#3c3c3c"
+        android:textSize="13sp"
+        android:id="@+id/disPrice"
+        android:paddingRight="10dp"
+        android:layout_below="@+id/productTitle"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\raw\\demonstrative.mp3",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\raw\\demonstrative.mp3"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\raw\\demonstrative.mp3",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\raw\\demonstrative.mp3"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\raw\\gtm_analytics",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    }
+]

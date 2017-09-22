@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/tab_toolbar_forward"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+        app:layout_scrollFlags="scroll|enterAlways"
+
+        app:titleTextAppearance="@style/AppTheme.Toolbar.Title" />
+
+
+    <RelativeLayout
+
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/actionbar_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TabWidget
+                android:id="@+id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+
+                android:showDividers="none">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/forward_bar_1"
+                        android:layout_width="0px"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/my_bussiness_top_arrow"
+                        android:scaleType="fitXY"
+                        android:text="Recent"
+                        android:textAllCaps="false"
+                        android:textColor="@color/primary_500"
+                        android:textSize="14dp"></Button>
+
+                    <TextView
+                        android:layout_width="0.5dp"
+                        android:layout_height="match_parent"
+                        android:background="@color/divider_Color"></TextView>
+
+                    <Button
+                        android:id="@+id/forward_bar_2"
+                        android:layout_width="0px"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@drawable/my_bussiness_top_bar"
+                        android:text="All"
+                        android:textAllCaps="false"
+                        android:textColor="@color/text_color"
+                        android:textSize="14dp" />
+
+
+                </LinearLayout>
+
+            </TabWidget>
+
+
+        </LinearLayout>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/forward_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/actionbar_container"
+            android:background="@color/white"></android.support.v4.view.ViewPager>
+
+
+        <include layout="@layout/home_overlay" />
+
+    </RelativeLayout>
+</LinearLayout>

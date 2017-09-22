@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/tool_bar"></include>
+    <ExpandableListView
+        android:id="@+id/as_expandableCategory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:groupIndicator="@null"
+        android:visibility="gone" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:id="@+id/iv_sellers"/>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/rl_sellers">
+
+        <TextView
+            android:id="@+id/sellers_record_status"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="No Record Found"
+            android:textColor="@color/text_color"
+            android:textSize="17sp"
+            android:visibility="gone" />
+        <ListView
+            android:id="@+id/as_sellerList"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/as_imageView3" />
+        <RelativeLayout
+            android:id="@+id/as_category_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/bg_main"
+            android:gravity="center"
+            android:padding="7dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignParentBottom="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/bg_main"
+                android:gravity="center"
+                android:text="@string/category"
+                android:textColor="#fff"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textIsSelectable="false"
+                android:id="@+id/as_txtSubCatName"
+                android:padding="5dp" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/white_down_arrow"
+                android:layout_gravity="center"
+                android:paddingLeft="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/as_txtSubCatName"
+                android:layout_toEndOf="@+id/as_txtSubCatName" />
+
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/as_imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:onClick="onFilter"
+            android:src="@drawable/filter"
+            android:layout_marginBottom="10dp"
+            android:paddingRight="5dp" />
+        <!-- <include layout="@layout/home_overlay" />-->
+    </RelativeLayout>
+</FrameLayout>
+</LinearLayout>

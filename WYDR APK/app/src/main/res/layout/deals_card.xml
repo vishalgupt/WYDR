@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="150dp"
+    android:layout_height="240dp"
+    android:layout_margin="1dp"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:id="@+id/img28"
+            android:gravity="center"
+            android:src="@drawable/emoji_00ae" />
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text="30% Margin"
+            android:textColor="#fff"
+            android:gravity="center"
+            android:background="@color/checkout_color"/>
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/offer_pic"
+            android:src="@drawable/tag_offer"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="50% off"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:id="@+id/tit29"
+        android:background="@color/checkout_color"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+    <LinearLayout
+        android:layout_width= "match_parent"
+        android:layout_height= "wrap_content"
+        android:orientation= "horizontal"
+        android:gravity= "center"
+        android:layout_marginLeft= "5dp"
+        android:layout_marginRight= "5dp"
+        android:layout_weight="10">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/llthird"
+            android:layout_height="wrap_content">
+
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:text="Rs. 350"
+            android:id="@+id/tit30"
+            android:layout_gravity="right" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content">
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="off"
+        android:textSize="18dp"
+        android:id="@+id/tita28"
+        android:textColor="@android:color/holo_red_dark"
+        android:textStyle="bold"
+        android:gravity="center" />
+            </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trousers"
+        android:textColor="#000"
+        android:id="@+id/tit28"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="from Myntra"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:id="@+id/p_com"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

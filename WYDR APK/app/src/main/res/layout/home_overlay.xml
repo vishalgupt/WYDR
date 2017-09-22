@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/overlayLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9f000000"
+    android:clickable="true"
+    android:gravity="right"
+    android:onClick="hideoverlay"
+    android:orientation="vertical"
+    android:visibility="gone">
+
+
+    <LinearLayout
+        android:id="@+id/start_chat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:clickable="true"
+        android:gravity="right">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="12dp"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="Start New Chat"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="30dp"
+            android:clickable="false"
+            android:scaleType="centerInside"
+            android:src="@drawable/bg_start_chat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/add_connection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:clickable="true"
+        android:gravity="right">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="12dp"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="Add Connection"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="30dp"
+            android:clickable="false"
+            android:scaleType="centerInside"
+            android:src="@drawable/bg_add_connection" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/add_catalog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:clickable="true"
+        android:gravity="right">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="12dp"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="Add Catalog"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="30dp"
+            android:clickable="false"
+            android:scaleType="centerInside"
+            android:src="@drawable/bg_add_catalog" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/submit_query"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:clickable="true"
+        android:gravity="right">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="12dp"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="Submit Query"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="30dp"
+            android:clickable="false"
+            android:scaleType="centerInside"
+            android:src="@drawable/bg_submit_query" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/create_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:clickable="true"
+        android:gravity="right"
+        android:visibility="gone">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="12dp"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="New Group"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="30dp"
+            android:clickable="false"
+            android:src="@drawable/query_blue_bg" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/create_broadcast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:clickable="true"
+        android:gravity="right">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="12dp"
+            android:clickable="false"
+            android:gravity="center"
+            android:text="Broadcast"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="30dp"
+            android:clickable="false"
+            android:scaleType="centerInside"
+            android:src="@drawable/bg_new_broadcast" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:clickable="true"
+        android:gravity="right">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="30dp"
+            android:clickable="false"
+            android:scaleType="centerInside"
+            android:src="@drawable/bg_cross" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

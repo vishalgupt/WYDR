@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--    <LinearLayout
+            android:id="@+id/id_layout_chat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp">
+
+            <RelativeLayout
+                android:id="@+id/bubble_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/chat_right"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/productThumbChat"
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/default_round_bck"
+                    android:padding="2.5dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/default_product1" />
+
+                <TextView
+                    android:id="@+id/txtTitleAttachChat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toEndOf="@+id/productThumbChat"
+                    android:layout_toRightOf="@+id/productThumbChat"
+                    android:singleLine="true"
+                    android:text="Apple iphone"
+                    android:textColor="#3c3c3c"
+                    android:textSize="16sp"
+
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtCodeAttechChat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/txtTitleAttachChat"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginTop="1.5dp"
+                    android:layout_toEndOf="@+id/productThumbChat"
+                    android:layout_toRightOf="@+id/productThumbChat"
+                    android:text="P0198"
+                    android:textColor="#3c3c3c"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/txtMRPAttechChat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/txtCodeAttechChat"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginTop="1.5dp"
+                    android:layout_toEndOf="@+id/productThumbChat"
+                    android:layout_toRightOf="@+id/productThumbChat"
+                    android:text="29000"
+                    android:textColor="#3c3c3c"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/txtSellAttechChat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/txtMRPAttechChat"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginTop="1.5dp"
+
+                    android:layout_toRightOf="@+id/productThumbChat"
+
+                    android:text="26000"
+                    android:textColor="#3c3c3c"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txtChatDateTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/txtChatMOQ"
+                    android:layout_alignEnd="@+id/txtMRPAttechChat"
+                    android:layout_alignRight="@+id/txtMRPAttechChat"
+                    android:layout_alignTop="@+id/txtChatMOQ"
+                    android:gravity="center"
+                    android:paddingRight="10dp"
+                    android:text="20 Aug"
+                    android:textColor="@color/text_color"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/txtChatMOQ"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/txtSellAttechChat"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:layout_toEndOf="@+id/productThumbChat"
+                    android:layout_toLeftOf="@+id/txtChatDateTime"
+                    android:layout_toRightOf="@+id/productThumbChat"
+                    android:layout_toStartOf="@+id/txtChatDateTime"
+                    android:text="MOQ : 20 "
+                    android:textColor="@color/text_color"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+        </LinearLayout>-->
+    <include layout="@layout/product_cart"></include>
+
+    <include layout="@layout/chat_left"></include>
+
+    <include layout="@layout/chat_right"></include>
+
+    <include layout="@layout/image_left"></include>
+
+    <include layout="@layout/image_right"></include>
+
+    <include layout="@layout/hi_fi_layout"></include>
+
+    <include layout="@layout/query_chat"></include>
+</RelativeLayout>

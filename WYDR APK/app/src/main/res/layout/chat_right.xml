@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:emojicon="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/chat_right_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="12dp"
+
+    android:paddingRight="12dp">
+
+    <TextView
+        android:id="@+id/lblMsgFrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="kfhdjbh"
+        android:textSize="12dp"
+        android:textStyle="italic"
+        android:visibility="gone" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="right"
+        android:background="@drawable/chat_right"
+        android:orientation="horizontal"
+        android:padding="7dp">
+
+
+        <wydr.sellers.emojicon.EmojiconTextView
+            android:id="@+id/txtMyMsg2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="false"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="left"
+            android:paddingLeft="5dp"
+            android:text="New Text"
+            android:textColor="@color/text_color"
+
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txtMyTime2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/txtMyMsg2"
+            android:layout_alignRight="@+id/txtMyMsg2"
+            android:layout_below="@+id/txtMyMsg2"
+            android:layout_gravity="bottom|right"
+            android:layout_marginTop="10dp"
+            android:maxLines="1"
+            android:text="New Text"
+            android:textColor="@color/text_color"
+            android:textSize="12sp" />
+    </FrameLayout>
+
+
+</RelativeLayout>

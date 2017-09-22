@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/child"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:orientation="vertical"
+
+    >
+
+    <RelativeLayout
+        android:id="@+id/relchk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="#f3f1f2">
+
+        <CheckBox
+            android:id="@+id/gridchk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="end"
+            android:layout_marginBottom="2dp"
+            android:layout_marginRight="10dp"
+            android:button="@null"
+            android:clickable="true"
+            android:drawableLeft="@drawable/checkbox_sel1"
+            android:drawablePadding="3dp"
+            android:paddingLeft="5dp"
+            android:text="Select All"
+            android:textColor="#3c3c3c"
+            android:textSize="13sp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relchk"
+        android:background="#fff"
+        android:paddingBottom="8dp">
+
+        <GridView
+            android:id="@+id/grid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#f3f1f2"
+            android:columnWidth="200dp"
+            android:horizontalSpacing="8dp"
+            android:numColumns="2"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:verticalSpacing="4dp" />
+    </LinearLayout>
+</RelativeLayout>

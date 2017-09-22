@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\default_round_bck.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\default_round_bck.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\myrect.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\myrect.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\chat_press.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\chat_press.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\table_border.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\table_border.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\custom_progressbar.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\inactivetoggle.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\inactivetoggle.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\cart.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\wydr_app\\ViewPagerIndicator-Library\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\togglecolor.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\togglecolor.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\wydr_app_popup_steps.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\wydr_app_popup_steps.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\alert.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\gradient_hover.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\gradient_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\default_product.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\default_product.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\empty_divider.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\empty_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\wydr_app_popup_steps.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\wydr_app_popup_steps.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_places_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_places_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\arrow_fwd_96x96.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\arrow_fwd_96x96.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\custom_rings.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\custom_rings.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\default_prod_image.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\default_prod_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\coupon_outline.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\coupon_outline.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\button_blue.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\myrect.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\myrect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\togglestate.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\togglestate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_recent_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\checkbox_sel.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\checkbox_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\chat_button_selector.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\chat_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\rounded_rectangle.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\rounded_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\arrow_back_96x96.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\arrow_back_96x96.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\edittxt.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\edittxt.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_symbols_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ctivetoggle.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ctivetoggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_nature_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_nature_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\row_border.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\row_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\custom_rings.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\custom_rings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\buiscat_bck.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\buiscat_bck.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\wydr_cash_logo.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\wydr_cash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\selector_crop_button.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\selector_crop_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_places_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_places_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\buiscat_bck.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\buiscat_bck.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\wydr_cash_logo.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\wydr_cash_logo.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\radio_sel.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\radio_sel.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\tag_offer.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\tag_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_people_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_people_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\line_unselected.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\line_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\login_logo.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\inactivetoggle.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\inactivetoggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\gradient_bg.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\color_cursor.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\color_cursor.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\fab_background.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\check.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\arrow_back_96x96.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\arrow_back_96x96.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\selector_crop_button.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\selector_crop_button.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\table_border.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\table_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\count_circle.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\count_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\default_prod_image.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\default_prod_image.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\chat_press.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\chat_press.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\check.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\retry_button.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\retry_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\custom_progressbar.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ctivetoggle.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ctivetoggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\cart_plus.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\cart_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\button_blue.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\scr_02.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\scr_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\wydr_app\\ViewPagerIndicator-Library\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\edittxt.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\edittxt.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\count_circle.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\count_circle.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_recent_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\coupon_filled.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\coupon_filled.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\cart_plus.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\cart_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\empty_divider.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\empty_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\scr_02.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\scr_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\row_border.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\row_border.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\scr_03.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\scr_03.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\rounded_rectangle.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\rounded_rectangle.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\color_cursor.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\color_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\line_unselected.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\line_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\checkbox_sel1.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\checkbox_sel1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_people_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_people_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\gradient_hover.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\gradient_hover.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\scr_01.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\scr_01.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\button_red.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\button_red.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_nature_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_nature_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\cart.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\splash_screen_white1.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\splash_screen_white1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\line_selected.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\line_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\splash1.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\splash1.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\checkbox_sel.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\checkbox_sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\default_round_bck.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\default_round_bck.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\chat_normal.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\chat_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\scr_03.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\scr_03.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_symbols_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\chat_normal.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\chat_normal.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\coupon_outline.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\coupon_outline.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\arrow_fwd_96x96.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\arrow_fwd_96x96.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\retry_button.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\retry_button.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\scr_01.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\scr_01.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\alert.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\login_logo.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_objects_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_objects_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\default_product.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\default_product.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\gradient_bg.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\togglecolor.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\togglecolor.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\togglestate.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\togglestate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\snackbar_background.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\ic_emoji_objects_light.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\ic_emoji_objects_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\splash_screen_white1.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\splash_screen_white1.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\button_red.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\button_red.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\checkbox_sel1.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\checkbox_sel1.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\border.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\strikethrough.9.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\strikethrough.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\radio_sel.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\radio_sel.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\line_selected.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\line_selected.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\strikethrough.9.png",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\strikethrough.9.png"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\list_selector.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\chat_button_selector.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\chat_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\splash1.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\splash1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\tag_offer.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\tag_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable\\coupon_filled.png",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\drawable\\coupon_filled.png"
+    }
+]

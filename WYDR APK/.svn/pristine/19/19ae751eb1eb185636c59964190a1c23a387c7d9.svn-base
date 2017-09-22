@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">WYDR</string>
+    <string name="action_settings">Settings</string>
+    <string name="wydr_on_go"> WHOLESALE ON THE GO!</string>
+    <string name="facebook_app_id">590798421069933</string>
+
+    <string name="rs">\u20B9</string>
+    <string-array name="nav_drawer_items">
+
+        <item>My Catalog</item>
+        <item>Business Leads</item>
+        <item>My Favorites</item>
+        <item>My Business</item>
+        <item>My Orders</item>
+        <item>Shared Items</item>
+        <item>All Sellers</item>
+        <item>My Profile</item>
+        <item>App Feedback</item>
+        <item></item>
+
+    </string-array>
+    <string-array name="nav_drawer_items2">
+
+        <item>Become a Seller</item>
+        <item>My Catalog</item>
+        <item>Business Leads</item>
+        <item>My Favorites</item>
+        <item>My Business</item>
+        <item>My Orders</item>
+        <item>Shared Items</item>
+        <item>All Sellers</item>
+        <item>My Profile</item>
+        <item>App Feedback</item>
+        <item>Manage Team</item>
+        <item>Contact Us</item>
+        <item>Wydr Cash</item>
+        <item>Legal &amp; Policies</item>
+        <item>Help</item>
+        <item></item>
+
+    </string-array>
+    <string name="high_five">High Five!</string>
+
+    <string name="feedback_id">appfeedback@wydr.in</string>
+
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="no_storage_card">No storage card</string>
+    <string name="not_enough_space">Not enough space</string>
+    <string name="Appurl">www.wydr.in</string>
+    <string name="Appurl1">www.wydrmail.in</string>
+    <string name="campaignURL">https://play.google.com/store/apps/details?id=wydr.sellers&amp;referrer=utm_source%3Dgoogle%26utm_campaign%3Dcartlevel%26anid%3Dadmob</string>
+    <string name="no_internet_conn">Please check your internet connection and retry</string>
+    <!-- Nav Drawer List Item Icons -->
+
+    <array name="nav_drawer_icons_root">
+        <item>@drawable/home</item>
+        <item>@drawable/my_catalog</item>
+        <item>@drawable/my_qury</item>
+        <item>@drawable/my_fvrt</item>
+        <item>@drawable/my_business</item>
+        <item>@drawable/my_orders</item>
+        <item>@drawable/shared_items</item>
+        <item>@drawable/all_sellers</item>
+        <item>@drawable/my_profile</item>
+        <item>@drawable/invite_users</item>
+        <item>@null</item>
+
+    </array>
+    <array name="nav_drawer_icons_sub">
+        <item>@drawable/home</item>
+        <item>@drawable/my_catalog</item>
+        <item>@drawable/my_qury</item>
+        <item>@drawable/my_fvrt</item>
+        <item>@drawable/my_business</item>
+        <item>@drawable/my_orders</item>
+        <item>@drawable/shared_items</item>
+        <item>@drawable/all_sellers</item>
+        <item>@drawable/my_profile</item>
+        <item>@drawable/invite_users</item>
+        <item>@null</item>
+
+    </array>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="category_prompt">Choose a Category</string>
+    <string name="color">#fff</string>
+
+    <string-array name="category_arrays">
+        <item>BRANDS</item>
+        <item>MANUFACTURER</item>
+        <item>RETAILER</item>
+        <item>WHOLESALER</item>
+    </string-array>
+
+
+    <string name="terms_link">http://wydr.in/terms.php</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">BY CLICKING ON REGISTER YOU AGREE TO T&amp;C</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="hint_invite">Invite Code (Optional)</string>
+    <string name="hint_contact">Contact No</string>
+    <string name="hint_mobile">Mobile No</string>
+    <string name="send">Send Verification Email</string>
+    <string name="busidetpub">This setting enables visibility of your catalog outside your connections</string>
+    <string name="busidetpri">This setting will give the visibility of your catalog to your connections only</string>
+    <string name="forgetstring">E-Mail verification Link has been sent.</string>
+    <string name="enter_quantity">ENTER QUANTITY</string>
+    <string name="book">BOOK</string>
+    <string name="book_order">BOOK ORDER</string>
+    <string name="loading">Loading...</string>
+    <string name="toggle_view">Toggle View</string>
+    <string name="like">Like</string>
+    <string name="chat">Chat</string>
+    <string name="share">Share</string>
+    <string name="book_small">Book</string>
+    <string name="edit">Edit</string>
+    <string name="disable">Disable</string>
+    <string name="delete">Delete</string>
+    <string name="view_catalog">View Catalog</string>
+    <string name="view_queries">View Leads</string>
+    <string name="first_name">First Name *</string>
+    <string name="last_name">Last Name</string>
+    <string name="company_name">Company Name *</string>
+    <string name="address">ADDRESS *</string>
+    <string name="city">CITY *</string>
+    <string name="state">STATE *</string>
+    <string name="zipcode">Zipcode *</string>
+    <string name="asc">Price Low To High</string>
+    <string name="desc">Price High To Low</string>
+    <string name="sort_name">Name</string>
+    <string name="recent">Most Recent</string>
+    <string name="posted_by">Posted By</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="sort_city">City</string>
+    <string name="oops">OOPS !</string>
+    <string name="sorry">Sorry</string>
+    <string name="out_of_stock">Out Of Stock</string>
+    <string name="old_PushWooshId">D9CE5-96811</string>
+    <string name="new_PushWooshId">D5B3E-DAE75</string>
+    <string name="requested_not_available">Requested Quantity Not Available</string>
+    <string name="only">Only</string>
+    <string name="available">units are available in stock</string>
+    <string name="txtname">NAME *</string>
+    <string name="txtemail">ENTER EMAIL *</string>
+    <string name="txtpassword">ENTER PASSWORD</string>
+    <string name="btninvite">INVITE</string>
+    <string name="txtnumber">ENTER NUMBER *</string>
+    <string name="success">SUCCESS</string>
+    <string name="invited_success">USER INVITED SUCCESSFULLY</string>
+    <string name="server_error">We encountered some issue on the server. Please retry.</string>
+    <string name="inactive_user">User is currently inactive</string>
+    <string name="alert">Oops !</string>
+    <string name="alert_">Alert</string>
+    <string name="invalid_mobile">Invalid Mobile No.</string>
+    <string name="invalid_otp">Invalid OTP</string>
+    <string name="error">Error</string>
+    <string name="atleast_one_field">Atleast one field need to be saved</string>
+    <string name="feedback">Feedback</string>
+    <string name="enter_mobile">ENTER MOBILE NO. *</string>
+    <string name="submit">SUBMIT</string>
+    <string name="verifying">Verifying...</string>
+    <string name="sending">Sending...</string>
+    <string name="one_time_password">Dear Customer, Your one time password for WYDR app is</string>
+    <string name="auto_detecting">AUTO DETECTING OTP</string>
+    <string name="manually_enter_otp">OR MANUALLY ENTER OTP</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="invalid_email">Invalid Email ID</string>
+    <string name="password_length">Password should have at least 6 characters</string>
+    <string name="empty_city">City cannot be blank</string>
+    <string name="empty_company">Company cannot be blank</string>
+    <string name="empty_password">Password cannot be blank</string>
+    <string name="empty_email">Email cannot be blank</string>
+    <string name="empty_name">Name cannot be blank</string>
+    <string name="enter_name">ENTER NAME *</string>
+    <string name="enter_email">ENTER EMAIL *</string>
+    <string name="enter_password">ENTER PASSWORD</string>
+    <string name="enter_company">ENTER COMPANY/SHOP NAME</string>
+    <string name="enter_city">ENTER CITY *</string>
+    <string name="select_buis_type">Select Business Type</string>
+    <string name="state_empty">State cannot be blank</string>
+    <string name="address_empty">Address cannot be blank</string>
+    <string name="update_profile">Updating Profile...</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="market_refernence">ADDITIONAL INFORMATION</string>
+    <string name="_public">PUBLIC</string>
+    <string name="_private">PRIVATE</string>
+    <string name="buis_details">BUSINESS DETAILS</string>
+    <string name="personal_details">CONTACT INFORMATION</string>
+    <string name="business_shop">BUSINESS/SHOP NAME *</string>
+    <string name="pan">BUSINESS PAN </string>
+    <string name="tin">TIN </string>
+    <string name="business_type">BUSINESS TYPE *</string>
+    <string name="interested_in">INTERESTED IN : *</string>
+    <string name="buy">BUY</string>
+    <string name="sell">SELL</string>
+    <string name="both">BOTH</string>
+    <string name="skip_now">SKIP FOR NOW</string>
+    <string name="no_value_selected">No Value Selected</string>
+    <string name="submitting">Submitting...</string>
+    <string name="updating_category">Updating Category...</string>
+    <string name="add_address">Add Address</string>
+    <string name="enter_valid_state">State name is not valid. Please retry</string>
+    <string name="enter_vaild_city">City name is not valid. Please retry</string>
+    <string name="enter_valid_zip">ZipCode is not valid. Please retry</string>
+    <string name="enter_valid_pin">Invalid Pincode</string>
+    <string name="enter_pincode">PINCODE *</string>
+    <string name="landmark">LANDMARK</string>
+    <string name="add_product">Add Product</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="save_close"><![CDATA[Save & Close]]></string>
+    <string name="discard">Discard</string>
+    <string name="get_image_from">Upload image from</string>
+    <string name="fail_load_image">Sorry! Failed to load image</string>
+    <string name="status">Status</string>
+    <string name="product_saved">Product Saved</string>
+    <string name="product_not_saved">Product Not Saved</string>
+    <string name="product_added">Product Added</string>
+    <string name="product_add_failed">Product Add Failed , Try Later</string>
+    <string name="moq_not_0">MOQ should be greater than 0</string>
+    <string name="sp_cannot_0">SP should be greater than 0</string>
+    <string name="mrp_cannot_0">MRP should be greater than 0</string>
+    <string name="quantity_cannot_0">Quantity should be greater than 0</string>
+    <string name="moq_less_quantity">Minimum Quantity cannot be greater than Quantity</string>
+    <string name="sp_less_mrp">SP cannot be greater than MRP</string>
+    <string name="invalid_moq">Invalid Minimum Quantity</string>
+    <string name="invalid_quantity">Invalid Quantity</string>
+    <string name="invalid_sp">Invalid SP</string>
+    <string name="invalid_mrp">Invalid MRP</string>
+    <string name="empty_moq">Minimum Quantity cannot be empty</string>
+    <string name="empty_quantity">Quantity cannot be empty</string>
+    <string name="empty_sp">Selling Price cannot be empty</string>
+    <string name="empty_mrp">MRP cannot be empty</string>
+    <string name="select_leaf">Please Select Leaf Category</string>
+    <string name="select_category">Please Select Category</string>
+    <string name="select_meta_category">Please Select Meta Category</string>
+    <string name="empty_product_code">Product Code cannot be empty</string>
+    <string name="empty_product_name">Product Name cannot be empty</string>
+    <string name="crop_not_supported">Whoops - your device doesn\'t support the crop action!</string>
+    <string name="hint_product_name">PRODUCT NAME *</string>
+    <string name="hint_product_code">PRODUCT CODE *</string>
+    <string name="hint_mrp">MRP *</string>
+    <string name="hint_sp">SELLING PRICE *</string>
+    <string name="hint_quantity">QTY *</string>
+    <string name="hint_moq">MIN QTY FOR ORDER *</string>
+    <string name="hint_product_desc">PRODUCT DESCRIPTION (IF ANY) :</string>
+    <string name="hint_visibility">VISIBILITY : *</string>
+    <string name="save_upload"><![CDATA[Save & Upload Later]]></string>
+    <string name="upload_now">Upload Now</string>
+    <string name="attach_product">Attach Product</string>
+    <string name="address_list">Address List</string>
+    <string name="txt_saved_address">Saved address</string>
+    <string name="txt_add_new_address">Add new address</string>
+    <string name="all_sellers">All Sellers</string>
+    <string name="user_not_found">No User Found</string>
+    <string name="no_user_found">No User Found For This Category</string>
+    <string name="user_not_exist">User does not exist</string>
+    <string name="category">CATEGORY</string>
+    <string name="user_cancelled_image">User cancelled image capture</string>
+    <string name="something_went_wrong">Sorry ! Unexpected error. Please retry !</string>
+    <string name="cart">My Cart</string>
+    <string name="empty_cart">Your Cart is Empty</string>
+    <string name="add_items_to_cart">Add items to cart</string>
+    <string name="proceed_payment">Proceed to Checkout</string>
+    <string name="my_business">My Business</string>
+    <string name="txt_business_details">BUSINESS DETAILS</string>
+    <string name="txt_business_cat">BUSINESS CATEGORIES</string>
+    <string name="add_connection">Add Connections</string>
+    <string name="standard_sms_charges">Standard SMS Charges Apply</string>
+    <string name="wydr_invite_sms">Hi! Join my network on Wydr. The new way of doing wholesale business. It brings wider reach with more efficiency. Download the app here - https://goo.gl/fLxW1P. Wydr - Wholesale on the go!</string>
+    <string name="create_broadcast">Create Broadcast</string>
+    <string name="person_already_added">Person already added in list</string>
+    <string name="broadcast_already_exists">Broadcast name already exist</string>
+    <string name="atleast_2_recep">At least 2 recipient</string>
+    <string name="enter_broadcast">Enter Broadcase Name</string>
+    <string name="broadcast_name">BROADCAST NAME *</string>
+    <string name="type_contact_name">TYPE CONTACT NAME *</string>
+    <string name="select_date_range">Please Select Date Range</string>
+    <string name="clear">Clear</string>
+    <string name="apply">Apply</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="product_upd_fail">Product Update Failed</string>
+    <string name="product_updated">Product Updated</string>
+    <string name="update_now">Update Now</string>
+    <string name="edit_query">Edit Query</string>
+    <string name="discard_query">Discard Query ?</string>
+    <string name="want_discard_query">Do you want to discard the query</string>
+    <string name="date_greater_todaydate">Needed date should be greater than current date</string>
+    <string name="empty_location">Location Cannot be blank</string>
+    <string name="pickdate">Please Pick Date</string>
+    <string name="query_success">Lead Updated Successfully</string>
+    <string name="newgroup">New Group</string>
+    <string name="invite_user">INVITE USER</string>
+    <string name="empty_number">Number cannot be blank</string>
+    <string name="inviting">Inviting...</string>
+    <string name="no_filter_available">No filter available</string>
+    <string name="atleast_moq">"MOQ should be atleast "</string>
+    <string name="mycatalog">My Catalog</string>
+    <string name="liveproducts">UPLOADED PRODUCTS</string>
+    <string name="draftsproducts">DRAFT PRODUCTS</string>
+    <string name="myfavs">My Favorites</string>
+    <string name="products">PRODUCTS</string>
+    <string name="chats">CHATS</string>
+    <string name="txtsellers">SELLERS</string>
+    <string name="txtleads">LEADS</string>
+    <string name="delete_connection">Delete</string>
+    <string name="are_u_sure">Are you sure you want to delete the connection ?</string>
+    <string name="are_u_sure_exit">Are you sure you want to exit</string>
+    <string name="delete_chat">Are you sure you want to delete the chat ?</string>
+    <string name="myorders">My Orders</string>
+    <string name="orders_placed">ORDERS PLACED</string>
+    <string name="orders_rece">ORDERS RECEIVED</string>
+    <string name="myprofile">My Profile</string>
+    <string name="discard_changes">Discard Changes?</string>
+    <string name="press_yes_to_dis">" Press \"Yes\" to discard changes."</string>
+    <string name="invalid_city">Invalid City Name</string>
+    <string name="invalid_state">Enter Valid State Name</string>
+    <string name="invalid_zip">Enter Valid ZipCode</string>
+    <string name="empty_zip">Zipcode Cannot be blank</string>
+    <string name="empty_state">State cannot be blank</string>
+    <string name="empty_firstname">Firstname cannot be blank</string>
+    <string name="updating">Updating...</string>
+    <string name="businessleads">Business Leads</string>
+    <string name="noqueries">Sorry ! No Leads Found.</string>
+    <string name="search_coon">Search Connections</string>
+    <string name="no_record">No record found</string>
+    <string name="already_in_cart">Already in Cart</string>
+    <string name="product_already_cart">Product is already added in cart</string>
+    <string name="order_plced_success">Order Placed Successfully</string>
+    <string name="search_results_for">"Search Results for "</string>
+    <string name="connections">CONNECTIONS</string>
+    <string name="enter_keyword">Please enter Search keyword</string>
+    <string name="SearchSellers">Search Sellers</string>
+    <string name="share_catalog_with">Share Catalog With</string>
+    <string name="select_atleast_oneuser">Please select at least one user</string>
+    <string name="sharing">Sharing...</string>
+    <string name="shared_successfully">Shared successfully</string>
+    <string name="products_shared">Products Shared</string>
+    <string name="start_chat">Start New Chat</string>
+    <string name="no_prods_category">Sorry ! Currently we do not any have products in this category.</string>
+    <string name="submit_query">Submit Query</string>
+    <string name="order_has_been_placed">"Your order has been placed.\nOrder ID: "</string>
+    <string name="order_has_been_failed">"Your order failed.\nOrder ID: "</string>
+    <string name="invalid_min">Invalid Minimum Quantity</string>
+    <string name="Checkout">Delivery &amp; Payment</string>
+    <string name="Contact">Contact Us</string>
+    <string name="reward">WydrCash</string>
+    <string name="termsUse">Terms of Use</string>
+    <string name="seller_not_found">Seller not found</string>
+    <string name="search_sellers">Search Sellers</string>
+    <string name="page_not_found">The profile is currently inactive. You can email to support@wydr.in to get the profile activated.</string>
+    <string name="landmark_empty">Landmark cannot be blank</string>
+    <string name="chat_about_price">Chat for price</string>
+    <string name="no_api_key">This account is restriced in Mobile App. Kindly contact to administrator</string>
+    <string name="unauthorized_user">This account is disabled or may be deleted. Kindly contact to administrator</string>
+    <string name="no_products_shared">No Products Shared</string>
+    <string name="add_to_favs">Add to Favorites</string>
+    <string name="recipent">At least 2 recipients are required</string>
+
+    <string name="owner">Owner</string>
+    <string name="primary_number">Primary Number</string>
+    <string name="tap">Tap and hold to take any number primary</string>
+    <string name="no_content">NO CONTENT</string>
+    <string name="remove_fav">Removed from favorites</string>
+    <string name="added_favs">Added to favorites</string>
+    <string name="market_place">Market Place</string>
+    <string name="chat_user">Chat User</string>
+    <string name="cart_activity">Cart Activity</string>
+    <string name="select_address">Address Checkout</string>
+    <string name="add_address_page">Add Address</string>
+    <string name="my_network">My Network</string>
+    <string name="my_query">My Query</string>
+    <string name="addProduct">Add Product</string>
+    <string name="my_connection">My Connection</string>
+    <string name="start_new">Start New Chat</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="my_catelog">My Catalog</string>
+    <string name="set_primary">Set Primary</string>
+    <string name="wanna_set_primary">Do you want to set this user as primary ?</string>
+    <string name="delevery">Delivery</string>
+    <string name="free_delevery">Free Delivery</string>
+    <string name="empty_pan">Any one(PAN/TIN/VAT) detail is mandatory</string>
+    <string name="not_allowed">You are not allowed to this product in cart</string>
+    <string name="permission_contacts_rationale">Contacts permissions are needed to demonstrate access.</string>
+    <string name="ok">OK</string>
+    <string name="permision_available_contacts">Contacts Permissions have been granted. Contacts screen can now be opened.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="persion">Person added in list</string>
+    <string name="pc">/pc</string>
+    <string name="search_in">Search in :</string>
+    <string name="what_are_you_looking_for">What are you looking for ?</string>
+    <string name="add_member">+ Add Member</string>
+    <string name="already_primary">Selected user is already primary</string>
+    <string name="add">Add</string>
+    <string name="edit_profile">Edit</string>
+    <string name="profile_save">Save</string>
+    <string name="thank_u">THANK YOU !</string>
+    <string name="following_stocked_out">"OOPS..following product(s) stocked out"</string>
+    <string name="best_offer">Add product photo for best offer</string>
+    <string name="product_name" tools:ignore="UnusedResources">PRODUCT NAME</string>
+    <string name="common_cats">Common Categories</string>
+    <string name="categories">Categories</string>
+    <string name="recurring">Recurring order</string>
+    <string name="one_time">One time order</string>
+    <string name="needed_by">NEEDED BY</string>
+    <string name="location">LOCATION</string>
+    <string name="no_cat_found">Category not found. Try Later .</string>
+    <string name="user_not_loggedin">Before making primary, ask user to install wydr app.</string>
+    <string name="title_activity_splash">WYDR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_walk_through">WalkThroughActivity</string>
+    <string name="title_activity_become_a__seller">Become_a_Seller</string>
+</resources>

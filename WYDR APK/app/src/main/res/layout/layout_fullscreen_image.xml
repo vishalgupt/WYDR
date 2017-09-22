@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2000000"
+    android:padding="7dip">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnPreImg"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/btnClose"
+        android:layout_marginBottom="7dip"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip" />
+
+    <ImageView
+        android:id="@+id/btnnextImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="15dip"
+        android:layout_marginRight="20dip"
+        android:background="@drawable/next" />
+
+    <ImageView
+        android:id="@+id/btnPreImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="15dip"
+        android:layout_marginRight="15dip"
+        android:layout_toLeftOf="@+id/btnnextImg"
+        android:background="@drawable/pre" />
+
+    <ImageView
+        android:id="@+id/btnClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+
+        android:layout_alignParentTop="true"
+        android:background="@drawable/close_icon" />
+
+</RelativeLayout>

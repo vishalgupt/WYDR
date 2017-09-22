@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/grid_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0.2dp">
+
+    <RelativeLayout
+        android:id="@+id/grid_semiparent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:paddingBottom="7dp"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:paddingTop="4dp">
+
+        <ImageView
+            android:id="@+id/mpgi_product_image"
+            android:layout_width="fill_parent"
+            android:layout_height="170dp" />
+
+        <ImageView
+            android:id="@+id/mpgi_favourite_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="3dp"
+            android:padding="5dp"
+            android:src="@drawable/like_unselected" />
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/offer_tag2"
+            android:src="@drawable/tag_offer"/>
+
+        <TextView
+            android:id="@+id/mpgi_product_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/mpgi_product_image"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/mpgi_product_image"
+            android:layout_marginTop="7dp"
+            android:singleLine="true"
+            android:text="Ruby Ring 18 Crt Gold"
+            android:textColor="@color/text_color"
+            android:textSize="13dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/chat_about"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/mpgi_product_name"
+            android:layout_marginTop="1dp"
+            android:text="@string/chat_about_price"
+            android:textColor="@color/checkout_color"
+            android:textSize="13sp"
+            android:visibility="gone"
+
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="10"
+            android:id="@+id/ll_mrp"
+            android:orientation="horizontal"
+            android:layout_below="@+id/mpgi_product_code">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7"
+                android:textColor="#000"
+                android:text="MRP/MOP"/>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="3"
+                android:gravity="right"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/mpgi_mrp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_gravity="right"
+                    android:layout_toLeftOf="@+id/mpgi_maxsp"
+                    android:layout_marginTop="1dp"
+                    android:maxLength="14"
+                    android:text="30000 INR"
+                    android:singleLine="true"
+                    android:textColor="@color/text_color"
+                    android:textSize="13sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="10"
+            android:id="@+id/ll_price"
+            android:orientation="horizontal"
+            android:layout_below="@+id/ll_mrp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="7"
+                android:textColor="#000"
+                android:text="Wholesale Price"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:gravity="right"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/mpgi_maxsp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/mpgi_mrp"
+                android:singleLine="true"
+                android:layout_below="@+id/mpgi_product_name"
+                android:text="28999 INR"
+                android:maxLength="14"
+                android:textColor="@color/text_color"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/offer_price"
+
+    android:layout_below="@+id/ll_price">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/holo_red_dark"
+        android:id="@+id/offerpricered"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:text="Rs. 310/pc"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/checkout_color"
+        android:textColor="#fff"
+        android:padding="5dp"
+        android:id="@+id/offerstringorange"
+        android:textStyle="bold"
+        android:text="20% margin"/>
+</LinearLayout>
+
+
+
+
+        <TextView
+            android:id="@+id/mpgi_product_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/chat_about"
+            android:layout_marginTop="2dp"
+            android:text="P008956"
+            android:singleLine="true"
+
+            android:textColor="@color/text_color"
+            android:layout_toLeftOf="@+id/out_stock"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/out_stock"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:singleLine="true"
+            android:layout_alignTop="@+id/mpgi_product_code"
+
+            android:text="@string/out_of_stock"
+            android:textColor="@color/checkout_color"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mpgi_quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/offer_price"
+            android:layout_marginTop="2dp"
+            android:text="MOQ : 230"
+            android:textColor="@color/text_color"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/mpgi_menu_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/offer_price"
+            android:layout_marginRight="-8dp"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_action1" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/sellericon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/default_round_bck"
+        android:padding="2dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/avtar_bck1" />
+
+    <TextView
+        android:id="@+id/sellername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10sp"
+        android:layout_marginStart="10sp"
+        android:layout_toEndOf="@+id/sellericon"
+        android:layout_toRightOf="@+id/sellericon"
+        android:textColor="@color/text_color"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/sellernumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sellername"
+        android:layout_alignStart="@+id/sellername"
+        android:layout_below="@+id/sellername"
+        android:layout_marginTop="5dp"
+        android:layout_toLeftOf="@+id/sellerCatIcon"
+        android:layout_toStartOf="@+id/sellerCatIcon"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textColor="@color/primary_text"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/seller_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sellername"
+        android:layout_alignStart="@+id/sellername"
+        android:layout_below="@+id/sellernumber"
+        android:layout_marginTop="5dp"
+        android:layout_toLeftOf="@+id/sellerCatIcon"
+        android:layout_toStartOf="@+id/sellerCatIcon"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/sellerCatIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:onClick="startChat"
+        android:padding="12dp"
+        android:src="@drawable/chat_unselected" />
+
+</RelativeLayout>

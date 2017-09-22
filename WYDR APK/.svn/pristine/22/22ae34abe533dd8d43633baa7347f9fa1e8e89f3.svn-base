@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/viewAddUserThumb"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+
+        android:scaleType="fitXY"
+        android:src="@drawable/avtar" />
+
+    <TextView
+        android:id="@+id/txtAddUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/viewAddUserThumb"
+        android:singleLine="true"
+        android:text="User Name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primary_text" />
+
+    <TextView
+        android:id="@+id/txtAddCompany"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtAddUserName"
+        android:layout_alignStart="@+id/txtAddUserName"
+        android:layout_below="@+id/txtAddUserName"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Some Text"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:emojicon="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_selector"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/viewUserThumb"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/avtar" />
+
+    <TextView
+        android:id="@+id/txtUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toLeftOf="@+id/txtdate"
+        android:layout_toRightOf="@+id/viewUserThumb"
+        android:layout_toStartOf="@+id/txtdate"
+        android:singleLine="true"
+        android:text="User Name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/text_color" />
+
+    <wydr.sellers.emojicon.EmojiconTextView
+        android:id="@+id/txtStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtUserName"
+        android:layout_alignStart="@+id/txtUserName"
+        android:layout_below="@+id/txtUserName"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="5dp"
+        android:layout_toLeftOf="@+id/txtMsgCount"
+        android:layout_toStartOf="@+id/txtMsgCount"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:text="Some Text"
+        android:textAlignment="gravity"
+        android:textColor="@color/text_color"
+
+        android:textSize="16sp"  />
+
+    <TextView
+        android:id="@+id/txtdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="22/jun/2014"
+        android:textColor="@color/text_color"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/txtMsgCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/blue_bg"
+        android:gravity="center"
+        android:padding="0dp"
+        android:text="0"
+        android:textColor="@color/white"
+        android:textSize="12sp" />
+</RelativeLayout>

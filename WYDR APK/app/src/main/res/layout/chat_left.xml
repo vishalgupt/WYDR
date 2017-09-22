@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:emojicon="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/chat_left_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp">
+
+    <!--<ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/avtar"
+        android:visibility="gone" />-->
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="right"
+        android:background="@drawable/chat_left"
+        android:orientation="horizontal"
+        android:padding="7dp">
+
+
+        <wydr.sellers.emojicon.EmojiconTextView
+            android:id="@+id/txtMyMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="left|center_vertical"
+            android:paddingLeft="5dp"
+            android:text="New Text"
+            android:textColor="@color/text_color"
+
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txtMyTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/txtMyMsg"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@+id/txtMyMsg"
+            android:layout_below="@+id/txtMyMsg"
+            android:layout_gravity="bottom|right"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:paddingRight="10dp"
+            android:text="time Text"
+            android:textColor="@color/text_color"
+            android:textSize="12sp" />
+    </FrameLayout>
+
+
+</RelativeLayout>

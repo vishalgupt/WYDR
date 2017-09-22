@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="ScrollViewSize">
+
+        <ImageView
+            android:id="@+id/logotxt"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentStart="false"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="55dp"
+            android:gravity="top|center"
+            android:padding="10dp"
+            android:src="@drawable/login_logo" />
+
+        <TextView
+            android:id="@+id/txtWhole"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/logotxt"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="35dp"
+            android:editable="false"
+            android:gravity="top|center"
+            android:text="@string/wydr_on_go"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:typeface="sans" />
+
+        <LinearLayout
+            android:id="@+id/loginll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtWhole"
+            android:layout_marginBottom="10dp"
+            android:background="#59abde"
+            android:orientation="vertical"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp">
+
+            <LinearLayout
+                android:id="@+id/num_wrap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="7dp"
+                android:paddingTop="20dp"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="0px"
+                    android:layout_height="0px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true" />
+
+
+                <EditText
+                    android:id="@+id/country_code"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="0.75"
+                    android:background="@android:color/transparent"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+
+                    android:gravity="right"
+                    android:inputType="phone"
+                    android:maxLength="4"
+                    android:singleLine="true"
+                    android:text="+91-"
+                    android:textColor="@color/white"
+                    android:textColorHint="#eee"
+
+                    android:textSize="17sp"
+                    android:typeface="sans" />
+
+
+                <EditText
+                    android:id="@+id/EtOtp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.25"
+                    android:background="@android:color/transparent"
+                    android:gravity="left"
+                    android:hint="@string/enter_mobile"
+                    android:inputType="phone"
+                    android:maxLength="10"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textColorHint="#eee"
+                    android:textSize="17sp"
+                    android:typeface="sans" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="10dp"
+                android:background="@color/white" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/OTPNextBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/loginll"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/white_submit_button"
+            android:gravity="center"
+            android:text="@string/submit"
+            android:textColor="@color/bg_main"
+            android:textSize="15dp" />
+
+    </RelativeLayout>
+</ScrollView>

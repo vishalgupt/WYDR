@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/uf_queryfeed"
+            android:scaleType="fitXY"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/llquery">
+
+    <RelativeLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:descendantFocusability="blocksDescendants">
+
+        <ExpandableListView
+            android:id="@+id/qexpandableCategory2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/qbottombar"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/transparent"
+            android:groupIndicator="@null"
+            android:visibility="gone" />
+
+
+        <ListView
+            android:id="@+id/listViewHomeFeed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/dateFilter"
+            android:layout_alignParentTop="true"
+            android:divider="#cdcdcd"
+            android:dividerHeight="1dp"
+            tools:listitem="@layout/quiry_layout" />
+
+        <TextView
+            android:id="@+id/query_record_status"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="No Record Found"
+            android:textColor="@color/text_color"
+            android:textSize="17sp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/qbottombar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/bg_main"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/qcategory_button"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/txtQueryCategory"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/bg_main"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/white_down_arrow"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="CATEGORY"
+                    android:textColor="#fff"
+                    android:textIsSelectable="false"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/qsort"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:padding="10dp">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/bg_main"
+                    android:drawablePadding="20dp"
+                    android:drawableRight="@drawable/white_down_arrow"
+                    android:gravity="left"
+                    android:text="SORT BY"
+                    android:textColor="#fff"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/dateFilter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="30dp"
+            android:paddingRight="5dp"
+            android:src="@drawable/filter" />
+    </RelativeLayout>
+            </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

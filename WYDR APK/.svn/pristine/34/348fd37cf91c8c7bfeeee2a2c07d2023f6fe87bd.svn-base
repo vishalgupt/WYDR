@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#47A2DB"
+    android:divider="#ffffff"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/search_imageicon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:src="@drawable/avtar" />
+
+    <TextView
+        android:id="@+id/search_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_toEndOf="@+id/search_imageicon"
+        android:layout_toRightOf="@+id/search_imageicon"
+
+        android:text="BUSINESS"
+        android:textColor="#fff"
+        android:textSize="17dp"
+        android:textStyle="normal"
+        android:layout_toLeftOf="@+id/search_image" />
+
+    <ImageView
+        android:id="@+id/search_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:src="@drawable/search"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>

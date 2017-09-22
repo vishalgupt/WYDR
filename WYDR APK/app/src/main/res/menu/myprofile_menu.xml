@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="wydr.sellers.activities.Home">
+
+    <item
+        android:id="@+id/myprofile_edit"
+        android:icon="@drawable/edit"
+        android:title="@string/edit_profile"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/myprofile_save"
+        android:icon="@drawable/create"
+        android:title="@string/profile_save"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/myprofile_cart"
+        android:title="Cart"
+        android:actionLayout="@layout/cart_count"
+        app:showAsAction="always" />
+</menu>

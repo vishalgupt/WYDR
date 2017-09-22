@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.Home">
+
+    <item
+        android:id="@+id/submitBroadcast"
+        android:icon="@drawable/check"
+        android:title="Next"
+        app:showAsAction="always" />
+
+</menu>

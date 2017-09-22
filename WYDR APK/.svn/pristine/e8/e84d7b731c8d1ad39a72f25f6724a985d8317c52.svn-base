@@ -1,0 +1,100 @@
+-keep class wydr.sellers.activities.Controller {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class wydr.sellers.registration.Login { <init>(); }
+-keep class wydr.sellers.activities.Home { <init>(); }
+-keep class wydr.sellers.activities.Contact { <init>(); }
+-keep class wydr.sellers.activities.Catalog { <init>(); }
+-keep class wydr.sellers.activities.Feedback { <init>(); }
+-keep class wydr.sellers.activities.InviteUser { <init>(); }
+-keep class wydr.sellers.registration.Registration { <init>(); }
+-keep class wydr.sellers.registration.OTPCheck { <init>(); }
+-keep class wydr.sellers.slider.MyContentProvider { <init>(); }
+-keep class wydr.sellers.activities.ChatActivity { <init>(); }
+-keep class wydr.sellers.activities.MyQuery { <init>(); }
+-keep class wydr.sellers.activities.AttachProduct { <init>(); }
+-keep class wydr.sellers.activities.SearchSellers { <init>(); }
+-keep class wydr.sellers.activities.SubmitQuery { <init>(); }
+-keep class wydr.sellers.activities.EditQuery { <init>(); }
+-keep class wydr.sellers.activities.SearchResult { <init>(); }
+-keep class wydr.sellers.activities.SearchActivity { <init>(); }
+-keep class wydr.sellers.activities.AddProduct { <init>(); }
+-keep class wydr.sellers.activities.NetworkSearchResult { <init>(); }
+-keep class wydr.sellers.activities.MyCatalog { <init>(); }
+-keep class wydr.sellers.activities.SearchFeed { <init>(); }
+-keep class wydr.sellers.activities.StartChat { <init>(); }
+-keep class wydr.sellers.activities.AllSellers { <init>(); }
+-keep class wydr.sellers.activities.MyProfile { <init>(); }
+-keep class wydr.sellers.activities.ImageActivity { <init>(); }
+-keep class wydr.sellers.activities.MyFavourite { <init>(); }
+-keep class wydr.sellers.activities.MarketPlaceProductsActivity { <init>(); }
+-keep class wydr.sellers.activities.ProductDetailsActivity { <init>(); }
+-keep class wydr.sellers.activities.MyOrders { <init>(); }
+-keep class wydr.sellers.activities.SellersCatalog { <init>(); }
+-keep class wydr.sellers.activities.EditProduct { <init>(); }
+-keep class wydr.sellers.activities.SellersQuery { <init>(); }
+-keep class wydr.sellers.activities.SellerProfile { <init>(); }
+-keep class wydr.sellers.activities.SharedItems { <init>(); }
+-keep class wydr.sellers.activities.ShareCatalogWith { <init>(); }
+-keep class wydr.sellers.activities.EditDraftProduct { <init>(); }
+-keep class wydr.sellers.activities.MyCatalogProdDetails { <init>(); }
+-keep class wydr.sellers.activities.MyCatalogFilter { <init>(); }
+-keep class wydr.sellers.activities.BroadcastDetail { <init>(); }
+-keep class wydr.sellers.activities.SubCategory { <init>(); }
+-keep class wydr.sellers.activities.FilterActivity { <init>(); }
+-keep class wydr.sellers.activities.LoacationFilterActivity { <init>(); }
+-keep class wydr.sellers.activities.DateActivity { <init>(); }
+-keep class wydr.sellers.activities.Checkout { <init>(); }
+-keep class wydr.sellers.activities.ContactUs { <init>(); }
+-keep class wydr.sellers.activities.TermsAndUse { <init>(); }
+-keep class wydr.sellers.activities.OrderReview { <init>(); }
+-keep class wydr.sellers.activities.Reward { <init>(); }
+-keep class wydr.sellers.activities.ImagePagerActivity { <init>(); }
+-keep class wydr.sellers.activities.ManageTeamActivity { <init>(); }
+-keep class wydr.sellers.activities.CartActivity { <init>(); }
+-keep class wydr.sellers.activities.AddAddress { <init>(); }
+-keep class wydr.sellers.activities.ThankActivity { <init>(); }
+-keep class wydr.sellers.activities.CreateBroadcast { <init>(); }
+-keep class wydr.sellers.activities.Broadcast { <init>(); }
+-keep class wydr.sellers.activities.AddProductInBroadcast { <init>(); }
+-keep class wydr.sellers.activities.ForwardActivity { <init>(); }
+-keep class com.razorpay.CheckoutActivity { <init>(); }
+-keep class wydr.sellers.activities.ProductSearch { <init>(); }
+-keep class wydr.sellers.activities.ImageViewer { <init>(); }
+-keep class wydr.sellers.acc.NetworkStateReceiver { <init>(); }
+-keep class wydr.sellers.registration.ContactsSyncService { <init>(); }
+-keep class wydr.sellers.openfire.SmackService { <init>(); }
+-keep class wydr.sellers.activities.StatusService { <init>(); }
+-keep class wydr.sellers.activities.ChatProvider { <init>(); }
+-keep class wydr.sellers.syncadap.GenericAccountService { <init>(); }
+-keep class wydr.sellers.syncadap.SyncService { <init>(); }
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(); }
+-keep class wydr.sellers.GCMIntentService { <init>(); }
+-keep class wydr.sellers.activities.AlarmReceiver { <init>(); }
+-keep class com.pushwoosh.richpages.RichPageActivity { <init>(); }
+-keep class com.pushwoosh.MessageActivity { <init>(); }
+-keep class com.pushwoosh.PushHandlerActivity { <init>(); }
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(); }
+-keep class com.pushwoosh.GCMListenerService { <init>(); }
+-keep class com.pushwoosh.GCMInstanceIDListenerService { <init>(); }
+-keep class com.pushwoosh.GCMRegistrationService { <init>(); }
+-keep class com.pushwoosh.location.GeoLocationService { <init>(); }
+-keep class com.pushwoosh.local.AlarmReceiver { <init>(); }
+-keep class com.pushwoosh.local.BootReceiver { <init>(); }
+-keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+-keep class com.google.android.gms.analytics.CampaignTrackingReceiver { <init>(); }
+-keep class com.google.android.gms.analytics.CampaignTrackingService { <init>(); }
+-keep class wydr.sellers.activities.Splash { <init>(); }
+-keep class wydr.sellers.WalkThroughActivity { <init>(); }
+-keep class wydr.sellers.Become_a_Seller { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

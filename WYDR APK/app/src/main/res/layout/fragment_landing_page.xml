@@ -1,0 +1,349 @@
+
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/swipe_refresh_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#59cccccc"
+    android:animateLayoutChanges="true"
+    tools:context="wydr.sellers.activities.LandingPage">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sv29"
+        android:scrollbars="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp">
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/pager28"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentTop="true"
+                    />
+
+                <com.viewpagerindicator.CirclePageIndicator
+                    android:id="@+id/indicator"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="bottom"
+                    android:padding="10dip"
+                    app:centered="true"
+                    app:fillColor="#ffffff"
+                    app:pageColor="#59000000"
+                    app:snap="false" />
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:id="@+id/ll0"
+                android:background="#ffffff"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="15dp"
+                    android:text="Deals of the Day"
+                    android:textColor="@android:color/black"
+                    android:textSize="19dp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="10dp"
+                    android:background="#ccc"
+                    android:visibility="gone" />
+            <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true">
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/my_recycler_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:background="#f6f6f6"
+                    android:orientation="horizontal"
+                    android:scrollbars="none"
+                    tools:listitem="@layout/deals_card" />
+
+               <RelativeLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="250dp"
+                   >
+                   <ImageView
+                       android:layout_width="50dp"
+                       android:layout_height="match_parent"
+                       android:src="@drawable/arrow_back_96x96"
+                       android:id="@+id/left"
+                       android:background="@android:color/transparent"
+                       android:visibility="gone"/>
+
+                   <ImageView
+                       android:layout_width="50dp"
+                       android:layout_height="match_parent"
+                       android:id="@+id/right"
+                       android:src="@drawable/arrow_fwd_96x96"
+                       android:layout_alignParentTop="true"
+                       android:layout_alignParentRight="true"
+                       android:layout_alignParentEnd="true"
+                       android:background="@android:color/transparent"
+                       android:visibility="gone"/>
+               </RelativeLayout>
+
+            </FrameLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#ffffff"
+                android:id="@+id/ll1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Deals of the Day"
+                    android:textColor="@android:color/black"
+                    android:textSize="19dp" />
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true">
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/my_recycler_view2"
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        android:orientation="horizontal"
+                        android:background="#f6f6f6"
+                        android:scrollbars="none"
+
+                        tools:listitem="@layout/deals_card" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        >
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/arrow_back_96x96"
+                            android:id="@+id/left2"
+                            android:background="@android:color/transparent"
+                            android:visibility="gone"/>
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:id="@+id/right2"
+                            android:src="@drawable/arrow_fwd_96x96"
+                            android:layout_alignParentTop="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentEnd="true"
+                            android:background="@android:color/transparent"
+                            android:visibility="gone"/>
+                    </RelativeLayout>
+
+                </FrameLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#ffffff"
+                android:id="@+id/ll2"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Deals of the Day"
+                    android:textColor="@android:color/black"
+                    android:textSize="19dp" />
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true">
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/my_recycler_view3"
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        android:background="#f6f6f6"
+                        android:orientation="horizontal"
+                        android:scrollbars="none"
+                        tools:listitem="@layout/deals_card" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        >
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/arrow_back_96x96"
+                            android:id="@+id/left3"
+                            android:background="@android:color/transparent"
+                            android:visibility="gone"/>
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:id="@+id/right3"
+                            android:src="@drawable/arrow_fwd_96x96"
+                            android:layout_alignParentTop="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentEnd="true"
+                            android:background="@android:color/transparent"
+                            android:visibility="gone"/>
+                    </RelativeLayout>
+
+                </FrameLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="60dp"
+                android:background="#ffffff"
+                android:id="@+id/ll3"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Deals of the Day"
+                    android:textColor="@android:color/black"
+                    android:textSize="19dp" />
+
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true">
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/my_recycler_view4"
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        android:orientation="horizontal"
+                        android:scrollbars="none"
+                        android:background="#f6f6f6"
+                        tools:listitem="@layout/deals_card" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        >
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/arrow_back_96x96"
+                            android:id="@+id/left4"
+                            android:background="@android:color/transparent"
+                            android:visibility="gone"/>
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:id="@+id/right4"
+                            android:src="@drawable/arrow_fwd_96x96"
+                            android:layout_alignParentTop="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentEnd="true"
+                            android:background="@android:color/transparent"
+                            android:visibility="gone"/>
+                    </RelativeLayout>
+
+                </FrameLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:background="#fff"
+        android:layout_gravity="bottom">
+
+        <Button
+            android:id="@+id/catagory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/checkout_color"
+            android:text="All Categories"
+            android:paddingLeft="70dp"
+            android:paddingRight="50dp"
+            android:drawableRight="@drawable/ic_keyboard_arrow_up_white_24dp"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:id="@+id/swipecontainer"
+
+            android:layout_below="@+id/catagory" />
+
+    </RelativeLayout>
+</FrameLayout>
+</android.support.v4.widget.SwipeRefreshLayout>

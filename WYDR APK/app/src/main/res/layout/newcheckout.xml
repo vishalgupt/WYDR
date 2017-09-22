@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Checkout.NewCheckout">
+    <include layout="@layout/tool_bar"
+        android:id="@+id/tb"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:weightSum="10"
+        android:layout_below="@+id/tb"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout6">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:layout_height="wrap_content"
+            android:text="Cart"
+            android:textStyle="bold"
+            />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="1dp"
+            android:background="#ccc"/>
+
+        <TextView
+
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="2.5"
+            android:text="Delivery\n&amp; payment"
+            android:textStyle="bold"
+           />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1.5"
+            android:layout_height="1dp"
+            android:background="#ccc"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="2.5"
+            android:layout_height="wrap_content"
+            android:text="Order Review"
+            android:textStyle="bold"
+            />
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:background="@color/checkout_color"
+        android:id="@+id/button2"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/container"
+        android:layout_below="@+id/linearLayout6"
+        android:layout_alignLeft="@+id/linearLayout6"
+        android:layout_alignStart="@+id/linearLayout6"
+        android:layout_above="@+id/button2"/>
+
+
+</RelativeLayout>

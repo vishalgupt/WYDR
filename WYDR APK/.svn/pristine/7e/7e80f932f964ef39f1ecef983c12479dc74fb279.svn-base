@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_main">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_main"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="0px"
+            android:focusable="true"
+            android:focusableInTouchMode="true" />
+
+        <ImageView
+            android:id="@+id/logotxt"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentStart="false"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="45dp"
+            android:gravity="top|center"
+            android:padding="10dp"
+            android:src="@drawable/login_logo" />
+
+
+        <wydr.sellers.registration.DonutProgress
+            android:id="@+id/donut_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="false"
+            android:layout_below="@+id/logotxt"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="top|center"
+            android:gravity="top|center"
+            custom:donut_circle_starting_degree="270"
+            custom:donut_finished_color="@color/bg_main"
+            custom:donut_finished_stroke_width="10dp"
+            custom:donut_max="60"
+            custom:donut_progress="0"
+            custom:donut_text_color="#fff"
+            custom:donut_unfinished_color="#7ebee5"
+            custom:donut_unfinished_stroke_width="5dp"></wydr.sellers.registration.DonutProgress>
+
+
+        <TextView
+            android:id="@+id/autoDetect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/donut_progress"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="14dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+
+            android:layout_weight="10"
+            android:gravity="top|center"
+            android:padding="3dp"
+            android:text="@string/auto_detecting"
+            android:textColor="#fff"
+            android:textSize="15dp"
+            android:typeface="sans" />
+
+
+        <EditText
+            android:id="@+id/otpcode"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/autoDetect"
+            android:layout_weight="20"
+            android:background="@drawable/edittxt"
+            android:gravity="center"
+            android:hint="@string/manually_enter_otp"
+            android:inputType="number"
+            android:maxLength="5"
+            android:maxLines="1"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="7dp"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="#eee"
+            android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/submitbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/otpcode"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/white_submit_button"
+            android:text="@string/submit"
+            android:textColor="@color/bg_main"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/resendotp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/submitbtn"
+            android:layout_gravity="top|center"
+            android:layout_margin="4dp"
+            android:layout_weight="35"
+            android:gravity="top|center"
+            android:padding="3dp"
+            android:text="@string/resend_otp"
+            android:textColor="#fff"
+            android:textIsSelectable="false"
+            android:textSize="15dp"
+            android:typeface="sans" />
+
+    </RelativeLayout>
+</ScrollView>

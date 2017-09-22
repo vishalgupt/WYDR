@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/high_five"
+            android:textAllCaps="true"
+            android:textColor="@color/text_color"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView17"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="Seal the Deal"
+            android:textAllCaps="true"
+            android:textColor="@color/text_color"
+            android:textSize="14sp" />
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInputHifiCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView19"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+
+            android:layout_marginTop="15dp"
+            android:background="@drawable/activegraybar"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout">
+
+            <AutoCompleteTextView
+                android:id="@+id/editHifiCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/activegraybar"
+                android:drawableLeft="@drawable/code_form"
+                android:drawablePadding="15dp"
+                android:drawableStart="@drawable/code_form"
+                android:dropDownHeight="200dp"
+                android:gravity="left"
+
+                android:hint="PRODUCT CODE"
+                android:paddingBottom="10dp"
+                android:paddingLeft="1dp"
+                android:paddingTop="10dp"
+                android:popupBackground="#FFF"
+                android:singleLine="true"
+                android:textColor="@color/text_color"
+                android:textColorHint="@color/hint_color"
+                android:textSize="14sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInputHifiPrice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textInputHifiCode"
+            android:layout_marginBottom="5dp"
+
+            android:layout_marginTop="15dp"
+            android:background="@drawable/activegraybar"
+            android:orientation="vertical"
+            app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout">
+
+            <EditText
+                android:id="@+id/editHifiPrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/activegraybar"
+                android:drawableLeft="@drawable/mrp_form"
+                android:drawablePadding="15dp"
+                android:drawableStart="@drawable/mrp_form"
+                android:ems="10"
+                android:gravity="left"
+                android:hint="AGREE UPON PRICE"
+                android:inputType="numberDecimal"
+                android:maxLength="8"
+                android:paddingBottom="10dp"
+                android:paddingLeft="1dp"
+                android:paddingTop="10dp"
+                android:singleLine="true"
+                android:textColor="@color/text_color"
+                android:textColorHint="@color/hint_color"
+                android:textSize="14sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/textInputQuantity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textInputHifiPrice"
+            android:layout_alignRight="@+id/textInputHifiPrice"
+            android:layout_below="@+id/textInputHifiPrice"
+            android:layout_marginBottom="5dp"
+
+            android:layout_marginTop="15dp"
+            android:background="@drawable/activegraybar"
+            android:orientation="vertical"
+            app:hintTextAppearance="@style/TextAppearence.App.TextInputLayout">
+
+            <EditText
+                android:id="@+id/editHifiQuintity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/activegraybar"
+                android:drawableLeft="@drawable/qty_form"
+                android:drawablePadding="15dp"
+                android:drawableStart="@drawable/qty_form"
+                android:ems="10"
+                android:gravity="left"
+                android:hint="AGREE UPON QUANTITY"
+                android:inputType="numberSigned"
+                android:maxLength="4"
+                android:paddingBottom="10dp"
+                android:paddingLeft="1dp"
+                android:paddingTop="10dp"
+
+                android:singleLine="true"
+                android:textColor="@color/text_color"
+                android:textColorHint="@color/hint_color"
+                android:textSize="14sp" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <TextView
+            android:id="@+id/txtShowTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textInputQuantity"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"
+            android:text="I want to : "
+            android:textAllCaps="true"
+            android:textColor="@color/text_color"
+            android:textSize="14sp" />
+
+        <RadioGroup
+            android:id="@+id/radioGroupSell"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtShowTitle"
+
+            android:background="@drawable/round_bg"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:weightSum="2">
+
+            <RadioButton
+                android:id="@+id/radioSell"
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@drawable/checked_form"
+                android:checked="true"
+                android:singleLine="true"
+                android:text="Sell this Product"
+                android:textColor="@color/text_color"
+                android:textSize="14sp" />
+
+            <RadioButton
+                android:id="@+id/radioBuy"
+                android:layout_width="0px"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@drawable/unchecked_form"
+                android:singleLine="true"
+                android:text="Buy this Product"
+                android:textColor="@color/text_color"
+                android:textSize="14sp" />
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/radioGroupSell"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/cancelHifi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/reject"
+                    android:text="@string/cancel"
+                    android:textColor="@color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/sendHifi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/accept"
+                    android:text="SEND"
+                    android:textColor="@color/book_dis"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+</LinearLayout>

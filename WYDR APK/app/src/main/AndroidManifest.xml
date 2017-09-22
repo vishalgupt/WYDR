@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wydr.sellers"
+    android:installLocation="preferExternal">
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- Network State Permissions to detect Internet status -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- Permission to vibrate -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+    <!-- Required to enable our SyncAdapter after it's created. -->
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <!-- Required because we're manually creating a new account. -->
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <!-- Keeps the processor from sleeping when a message is received. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="wydr.sellers.permission.C2D_MESSAGE" />
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <!--   &lt;!&ndash; Keeps the processor from sleeping when a message is received. &ndash;&gt;
+     <uses-permission android:name="android.permission.WAKE_LOCK" />
+-->
+        <!--&lt;!&ndash; Enables vibration permission for notification. &ndash;&gt;
+        <uses-permission android:name="android.permission.VIBRATE" />
+-->
+
+    <!--aki-->
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ"/>
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE"/>
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT"/>
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE"/>
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT"/>
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+    <!-- Permisson -->
+    <permission
+        android:name="wydr.sellers.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+    <!-- ISTIAQUE -->
+
+    <!--<compatible-screens>
+        <screen android:screenSize="large" android:screenDensity="480" />
+        <screen android:screenSize="xlarge" android:screenDensity="480" />
+
+        <screen android:screenSize="small" android:screenDensity="ldpi" />
+        <screen android:screenSize="small" android:screenDensity="mdpi" />
+        <screen android:screenSize="small" android:screenDensity="hdpi" />
+        <screen android:screenSize="small" android:screenDensity="xhdpi"/>
+
+        &lt;!&ndash;all normal size screens &ndash;&gt;
+        <screen android:screenSize="normal" android:screenDensity="ldpi" />
+        <screen android:screenSize="normal" android:screenDensity="mdpi" />
+        <screen android:screenSize="normal" android:screenDensity="hdpi" />
+        <screen android:screenSize="normal" android:screenDensity="xhdpi" />
+
+        &lt;!&ndash; all large size screens &ndash;&gt;
+        <screen android:screenSize="large" android:screenDensity="ldpi" />
+        <screen android:screenSize="large" android:screenDensity="mdpi" />
+        <screen android:screenSize="large" android:screenDensity="hdpi" />
+        <screen android:screenSize="large" android:screenDensity="xhdpi" />
+
+        &lt;!&ndash; all xlarge size screens &ndash;&gt;
+        <screen android:screenSize="xlarge" android:screenDensity="ldpi" />
+        <screen android:screenSize="xlarge" android:screenDensity="mdpi" />
+        <screen android:screenSize="xlarge" android:screenDensity="hdpi" />
+        <screen android:screenSize="xlarge" android:screenDensity="xhdpi" />
+
+        &lt;!&ndash; Special case for Nexus 7 &ndash;&gt;
+        <screen android:screenSize="large" android:screenDensity="213" />
+
+    </compatible-screens>-->
+    <!--  ISTIAQUE  -->
+
+    <application
+        android:name="wydr.sellers.activities.Controller"
+        android:allowBackup="true"
+        android:backupAgent="wydr.sellers.DatabaseBackUp"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/MyTheme">
+
+        <meta-data
+            android:name="com.google.android.backup.api_key"
+            android:value="AEdPqrEAAAAIQuaKxvsDQjS3M7bP3NiN9Zcg7sFNGB6oc6xNtg" />
+
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+
+        <activity
+            android:name="wydr.sellers.registration.Login"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="wydr.sellers.activities.Home"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <!--<intent-filter>
+                <action android:name="android.intent.action.Home" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>-->
+            <!-- ISTIAQUE -->
+
+<!--
+            <intent-filter>
+                <action android:name="android.intent.action.Home" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:host="@string/campaignURL" />
+            </intent-filter>
+-->
+
+            <intent-filter>
+                <action android:name="android.intent.action.Home" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="http" />
+                <data android:host="@string/Appurl" />
+            </intent-filter>
+
+
+            <!-- ISTIAQUE -->
+
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.Contact"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+
+        </activity>
+
+        <activity
+            android:name="wydr.sellers.activities.Catalog"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.CATEGORY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+        </activity>
+
+        <!--akshay broadcast receiver-->
+        <receiver android:name=".Notification.BReciever"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="wydr.sellers" />
+            </intent-filter>
+            </receiver>
+
+       <!-- <service android:name=".Notification.GCMIntentService"/>-->
+
+        <activity
+            android:name="wydr.sellers.activities.Feedback"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.Feedback" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.InviteUser"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name=".InviteUser" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wydr.sellers.registration.Registration"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.Registration" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wydr.sellers.registration.OTPCheck"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:windowSoftInputMode="adjustPan"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.OTPCheck" />
+
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="wydr.sellers.slider.MyContentProvider"
+            android:authorities="com.wydr.contacts"
+            android:exported="true"
+            android:readPermission="true"
+            android:writePermission="true" />
+
+        <activity
+            android:name="wydr.sellers.activities.ChatActivity"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait"
+            android:theme="@style/ChatActivity"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+
+        <activity
+            android:name="wydr.sellers.activities.MyQuery"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+
+        <activity
+            android:name="wydr.sellers.activities.AttachProduct"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="Attach Catalog"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SearchSellers"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.SearchActivity"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.SearchActivity" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SubmitQuery"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.EditQuery"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SearchResult"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.SearchActivity"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SearchActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <!--
+                <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activities.Home" />
+            -->
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.AddProduct"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.EDIT" />
+                <action android:name="android.intent.action.PICK" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.NetworkSearchResult"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.SearchActivity"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.MyCatalog"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SearchFeed"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.SearchActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.SearchActivity" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.StartChat"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.AllSellers"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.MyProfile"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.ImageActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.AddProduct"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.AddProduct" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.MyFavourite"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+
+        <activity
+            android:name="wydr.sellers.activities.MarketPlaceProductsActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!-- akshay basotra-->
+                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <data android:scheme="http"
+                    android:host="@string/Appurl1"
+                    android:pathPrefix="/linking/c/" />
+
+                <!-- note that the leading "/" is required for pathPrefix-->
+                <!-- Accepts URIs that begin with "example://gizmos” -->
+                <!-- akshay basotra-->
+
+            </intent-filter>
+            </activity>
+        <activity
+            android:name="wydr.sellers.activities.ProductDetailsActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.MarketPlaceProductsActivity" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!-- akshay basotra-->
+                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <data android:scheme="http"
+                    android:host="@string/Appurl1"
+                    android:pathPrefix="/linking/p/" />
+                <!-- note that the leading "/" is required for pathPrefix-->
+                <!-- Accepts URIs that begin with "example://gizmos” -->
+
+                <!-- akshay basotra-->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.MyOrders"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SellersCatalog"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.EditProduct"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.MyCatalog"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.MyCatalog" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SellersQuery"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SellerProfile"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SharedItems"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.ShareCatalogWith"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.MyCatalog"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.MyCatalog" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.EditDraftProduct"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.MyCatalog"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.MyCatalog" />
+            >
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.MyCatalogProdDetails"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <!-- This intent filter places this activity in the system's app launcher. -->
+            <intent-filter>
+                <action android:name="android.intent.action.MyCatalogProdDetails" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.MyCatalogFilter"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <!-- This intent filter places this activity in the system's app launcher. -->
+            <intent-filter>
+                <action android:name="android.intent.action.MyCatalogProdDetails" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.BroadcastDetail"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.MyCatalog"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.MyCatalog" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.SubCategory"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.FilterActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.LoacationFilterActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.DateActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.Checkout"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.ContactUs"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.Help"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.TermsAndUse"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.OrderReview"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="wydr.sellers.activities.Reward"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="wydr.sellers.activities.ImagePagerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.ManageTeamActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.CartActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.AddAddress"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.ThankActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.CreateBroadcast"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.Home"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.Home" />
+        </activity>
+        <activity
+            android:name="wydr.sellers.activities.Broadcast"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="wydr.sellers.activities.AddProductInBroadcast"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="wydr.sellers.activities.ForwardActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="wydr.sellers.activities.ChatActivity"
+            android:screenOrientation="portrait">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.ChatActivity"/>
+        </activity>
+        <activity
+            android:name="com.razorpay.CheckoutActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="wydr.sellers.activities.ProductSearch"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <!-- This intent filter places this activity in the system's app launcher. -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="wydr.sellers.activities.SearchActivity" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.ProductSearch" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="wydr.sellers.activities.ImageViewer" />
+
+        <receiver android:name="wydr.sellers.acc.NetworkStateReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name=".acc.InstallCampaignReciever">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+
+
+
+
+        <service android:name="wydr.sellers.registration.ContactsSyncService" />
+        <service android:name="wydr.sellers.openfire.SmackService" />
+        <service android:name="wydr.sellers.activities.StatusService" />
+
+        <receiver
+            android:name="com.android.appsbonesdk.ReferralReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="wydr.sellers.activities.ChatProvider"
+            android:authorities="com.provider.Chat"
+            android:exported="false"
+            android:grantUriPermissions="true"
+            android:label="ChatProvider"
+            android:readPermission="com.provider.Chat.READ"
+            android:syncable="true"
+            android:writePermission="com.provider.Chat.WRITE" />
+
+        <service android:name="wydr.sellers.syncadap.GenericAccountService">
+
+            <!-- Required filter used by the system to launch our account service. -->
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+            </intent-filter>
+            <!-- This points to an XMLf ile which describes our account service. -->
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/authenticator" />
+        </service>
+        <service
+            android:name="wydr.sellers.syncadap.SyncService"
+            android:exported="true">
+
+            <!--
+            This intent filter is required. It allows the system to launch our sync service
+            as needed.
+            -->
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter" />
+            </intent-filter>
+            <!-- This points to a required XML file which describes our SyncAdapter. -->
+            <meta-data
+                android:name="android.content.SyncAdapter"
+                android:resource="@xml/syncadapter" />
+        </service>
+        <!-- Receiver here -->
+        <receiver
+            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <!-- Receives the registration id. -->
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="wydr.sellers" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="wydr.sellers.GCMIntentService" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="8146dba6f99e0b1f0ea72767b1072da84ae3e5f9" />
+
+        <receiver android:name="wydr.sellers.activities.AlarmReceiver" />
+
+        <meta-data
+            android:name="PW_APPID"
+            android:value="D5B3E-DAE75" />
+
+        <!--Google Project Number provided by Auriga
+        <meta-data
+            android:name="PW_PROJECT_ID"
+            android:value="A715357366204" />-->
+
+        <meta-data
+            android:name="PW_PROJECT_ID"
+            android:value="A12982612113" />
+
+      <!--  &lt;!&ndash; GCM requires a Google account. &ndash;&gt;
+        <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+        &lt;!&ndash; Keeps the processor from sleeping when a message is received. &ndash;&gt;
+        <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+        &lt;!&ndash; Enables vibration permission for notification. &ndash;&gt;
+        <uses-permission android:name="android.permission.VIBRATE" />-->
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.pushwoosh.richpages.RichPageActivity" />
+        <activity android:name="com.pushwoosh.MessageActivity" />
+        <activity android:name="com.pushwoosh.PushHandlerActivity" />
+
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="PACKAGE_NAME" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.pushwoosh.GCMListenerService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.pushwoosh.GCMInstanceIDListenerService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.pushwoosh.GCMRegistrationService"
+            android:exported="false" />
+
+       <!-- <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+        <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" />
+        <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+        <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" />
+        <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+        <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" />
+        <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" />
+-->
+        <service android:name="com.pushwoosh.location.GeoLocationService" />
+
+       <!-- <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />-->
+
+        <receiver android:name="com.pushwoosh.local.AlarmReceiver" />
+        <receiver
+            android:name="com.pushwoosh.local.BootReceiver"
+            android:enabled="true"
+            android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!--
+             Optionally, register CampaignTrackingReceiver and CampaignTrackingService to enable
+             installation campaign reporting
+        -->
+
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService" android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="wydr.sellers.activities.Splash"
+            android:label="@string/title_activity_splash"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name="wydr.sellers.WalkThroughActivity"
+            android:label="@string/title_activity_walk_through"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="wydr.sellers.Become_a_Seller"
+            android:label="@string/title_activity_become_a__seller"
+            android:screenOrientation="portrait"/>
+
+    </application>
+
+    <!-- Used for Google Play Store Campaign Measurement-->
+    <!--<receiver android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+        android:enabled="true">
+        <intent-filter>
+            <action android:name="com.android.vending.INSTALL_REFERRER" />
+        </intent-filter>
+    </receiver>
+    <service android:name="com.google.android.gms.analytics.CampaignTrackingService"
+        android:enabled="true"
+        android:exported="false" />-->
+
+</manifest>

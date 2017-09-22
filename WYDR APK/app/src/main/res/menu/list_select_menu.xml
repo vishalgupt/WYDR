@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/copy"
+        android:icon="@drawable/copy"
+        android:title="Copy"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/forward"
+        android:icon="@drawable/forward"
+        android:title="Forward"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bookMark"
+        android:icon="@drawable/like_unselected_white"
+        android:title="@string/add_to_favs"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete_chat_row"
+        android:icon="@drawable/ic_action_discard"
+        android:title="@string/delete"
+        app:showAsAction="always" />
+</menu>

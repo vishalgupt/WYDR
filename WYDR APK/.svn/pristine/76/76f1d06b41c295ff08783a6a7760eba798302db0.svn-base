@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\app_tracker.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\app_tracker.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\syncadapter.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\syncadapter.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "E:\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\authenticator.xml",
+        "source": "E:\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Users\\Ishtiyaq\\Desktop\\26-04-2016 release\\wydr_app\\app\\src\\main\\res\\xml\\authenticator.xml"
+    }
+]
